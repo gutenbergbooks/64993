@@ -1,187 +1,62 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
-    <meta http-equiv="Content-Style-Type" content="text/css" />
-    <title>
-      Chambers’s Journal, by Various&mdash;A Project Gutenberg eBook
-    </title>
-    <link rel="coverpage" href="images/cover.jpg" />
-    <style type="text/css">
+The Project Gutenberg eBook of Chambers's Journal of Popular Literature,
+Science, and Art, Fifth Series, No. 7, Vol. I, February 16, 1884, by
+Various
 
-body {
-    margin-left: 10%;
-    margin-right: 10%;
-}
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
 
-    h1,h2,h3,h4,h5,h6 {
-    text-align: center; /* all headings centered */
-    clear: both;
-}
+Title: Chambers's Journal of Popular Literature, Science, and Art,
+       Fifth Series, No. 7, Vol. I, February 16, 1884
+       Volume 18
 
-p {
-    margin-top: .51em;
-    text-align: justify;
-    margin-bottom: .49em;
-}
+Author: Various
 
-.p2       {margin-top: 2em;}
+Release Date: April 05, 2021 [eBook #64993]
 
-.ph3{
-    text-align: center;
-    font-size: large;
-    font-weight: bold;
-}
+Language: English
 
-hr {
-    width: 33%;
-    margin-top: 2em;
-    margin-bottom: 2em;
-    margin-left: 33.5%;
-    margin-right: 33.5%;
-    clear: both;
-}
+Character set encoding: UTF-8
 
-hr.tb   {width: 45%; margin-left: 27.5%; margin-right: 27.5%;}
-hr.chap {width: 65%; margin-left: 17.5%; margin-right: 17.5%;}
-@media print { hr.chap {display: none; visibility: hidden;} }
-hr.full {width: 95%; margin-left: 2.5%; margin-right: 2.5%;}
+Produced by: Susan Skinner, Eric Hutton and the Online Distributed
+             Proofreading Team at https://www.pgdp.net (This file was
+             produced from images generously made available by The Internet
+             Archive)
 
-.header {text-align: center; margin-top: 0;}
-.header p {text-align: center; text-indent: 0;}
-.header .floatl {float: left;}
-.header .floatr {float: right;}
-.header .floatc {padding-top: .5em;}
-
-.x-ebookmaker .header {text-align: center; margin-top: 0;}
-.x-ebookmaker .header p {text-align: center; text-indent: 0;}
-.x-ebookmaker .header .floatl {float: left;}
-.x-ebookmaker .header .floatr {float: right;}
-.x-ebookmaker .header .floatc {padding-top: .5em;}
+*** START OF THE PROJECT GUTENBERG EBOOK CHAMBERS'S JOURNAL OF POPULAR
+LITERATURE, SCIENCE, AND ART, FIFTH SERIES, NO. 7, VOL. I, FEBRUARY 16,
+1884 ***
 
 
-div.chapter {page-break-before: always;}
-h2.nobreak  {page-break-before: avoid;}
-
-.pagenum { /* uncomment the next line for invisible page numbers */
-    /*  visibility: hidden;  */
-    position: absolute;
-    left: 92%;
-    font-size: smaller;
-    text-align: right;
-    font-style: normal;
-    font-weight: normal;
-    font-variant: normal;
-} /* page numbers */
-
-.center   {text-align: center;}
-
-.smcap    {font-variant: small-caps;}
-
-.allsmcap {font-variant: small-caps; text-transform: lowercase;}
-
-/* Images */
-
-img {
-    max-width: 100%;
-    height: auto;
-}
-img.w100 {width: 100%;}
 
 
-.figcenter {
-    margin: auto;
-    text-align: center;
-    page-break-inside: avoid;
-    max-width: 100%;
-}
+[Illustration: CHAMBERS’S JOURNAL
 
-/* Footnotes */
-.footnotes        {border: 1px dashed;}
+OF
 
-.footnote         {margin-left: 10%; margin-right: 10%; font-size: 0.9em;}
+POPULAR
 
-.footnote .label  {position: absolute; right: 84%; text-align: right;}
+LITERATURE, SCIENCE, AND ART
 
-.fnanchor {
-    vertical-align: super;
-    font-size: .8em;
-    text-decoration:
-    none;
-}
+Fifth Series
 
-/* Poetry */
-.poetry-container {text-align: center;}
-.poetry           {text-align: left; margin-left: 5%; margin-right: 5%;}
-/* uncomment the next line for centered poetry in browsers */
- .poetry           {display: inline-block;}
-.poetry .stanza   {margin: 1em auto;}
-.poetry .verse    {text-indent: -3em; padding-left: 3em;}
-/* large inline blocks don't split well on paged devices */
-@media print { .poetry {display: block;} }
-.x-ebookmaker .poetry {display: block;}
+ESTABLISHED BY WILLIAM AND ROBERT CHAMBERS, 1832
 
-/* Poetry indents */
-.poetry .indent0 {text-indent: -3em;}
+CONDUCTED BY R. CHAMBERS (SECUNDUS)
+
+NO. 7.—VOL. I.      SATURDAY, FEBRUARY 16, 1884.      PRICE 1½_d._]
 
 
-    </style>
-  </head>
-<body>
-<div>*** START OF THE PROJECT GUTENBERG EBOOK 64993 ***</div>
-<p><span class="pagenum" id="Page_97">{97}</span></p>
-
-<h1>CHAMBERS’S JOURNAL<br />
-OF<br />
-POPULAR<br />
-LITERATURE, SCIENCE, AND ART.</h1>
-
-<div class="chapter">
-<h2 class="nobreak">CONTENTS</h2>
-</div>
-
-<p class='center'>
-
-<!-- Autogenerated TOC. Modify or delete as required. -->
-
-<a href="#HOW_LIFE-OFFICES_PAY_THEIR_DEATH-CLAIMS">HOW LIFE-OFFICES PAY THEIR DEATH-CLAIMS.</a><br />
-<a href="#BY_MEAD_AND_STREAM">BY MEAD AND STREAM.</a><br />
-<a href="#FAMILIAR_SKETCHES_OF_ENGLISH_LAW">FAMILIAR SKETCHES OF ENGLISH LAW.</a><br />
-<a href="#TWO_DAYS_IN_A_LIFETIME">TWO DAYS IN A LIFETIME.</a><br />
-<a href="#A_PEEP_AT_THE_FALKLAND_ISLANDS">A PEEP AT THE FALKLAND ISLANDS.</a><br />
-<a href="#MISCHIEF_DONE_BY_GOOD-NATURED_PEOPLE">MISCHIEF DONE BY GOOD-NATURED PEOPLE.</a><br />
-<a href="#SIX_LITTLE_WORDS">SIX LITTLE WORDS.</a><br />
-
-<!-- End Autogenerated TOC. -->
-
-</p>
-
-<hr class="full" />
-
-<div class="chapter">
-<div class="figcenter illowp100" id="header" style="max-width: 43.75em;">
-  <img class="w100" src="images/header.jpg" alt="Chambers’s Journal of Popular Literature, Science,
-and Art. Fifth Series. Established by William and Robert Chambers, 1832. Conducted by R. Chambers (Secundus)." />
-</div>
 
 
-<hr class="full" />
-<div class="center">
-<div class="header">
-<p class="floatl"><span class="smcap">No. 7.—Vol. I.</span></p>
-<p class="floatr"><span class="smcap">Price</span> 1½<em>d.</em></p>
-<p class="floatc">SATURDAY, FEBRUARY 16, 1884.</p>
-</div></div></div>
-
-<hr class="full" />
-
-<div class="chapter">
-<h2 class="nobreak" id="HOW_LIFE-OFFICES_PAY_THEIR_DEATH-CLAIMS">HOW LIFE-OFFICES PAY THEIR DEATH-CLAIMS.</h2>
-</div>
+HOW LIFE-OFFICES PAY THEIR DEATH-CLAIMS.
 
 
-<p><span class="smcap">The</span> difficulty and delay in obtaining payment of the sum
+The difficulty and delay in obtaining payment of the sum
 assured, when death occurred, was at one time urged as an objection
 against the system of life-assurance; but of late years the percentage
 of cases in which this objection could hold good has been reduced to
@@ -201,9 +76,9 @@ a strong effort of the imagination what a vast alleviation of the
 sum of human misery is shadowed forth in the fact just stated. The
 humble cottage of the artisan, and the stately hall rich with heraldic
 emblazonry, are alike destined to draw comfort and solace from this
-beneficent treasury.</p>
+beneficent treasury.
 
-<p>We do not propose to give the history of life-assurance, or, at this
+We do not propose to give the history of life-assurance, or, at this
 time of day, to demonstrate the great advantages of the system, but
 to give some information which may be useful and interesting to the
 vast brotherhood of persons who have already availed themselves, or
@@ -222,9 +97,9 @@ in order to live, find the means of living; and we are afraid that,
 under present conditions, no means of escape can be afforded to the
 public from satisfying the necessity under which all assurance offices
 exist—namely, that of requiring the payment of premiums, and these
-payments to be made punctually as they fall due.</p>
+payments to be made punctually as they fall due.
 
-<p>There was a time when non-payment of the premium on the due date meant
+There was a time when non-payment of the premium on the due date meant
 forfeiture of all benefit and all past payments; but now these hard
 conditions have been almost entirely abolished; while certain offices
 have adopted a plan by which a policy is kept in force automatically,
@@ -242,11 +117,11 @@ Again, the lawyer may prove a most successful agent for the Company
 in inducing men to join by advocating the benefits of life-assurance,
 and has an opportunity, when preparing marriage settlements or making
 wills, of suggesting a policy of assurance as an excellent subject for
-settlement or bequest.</p>
+settlement or bequest.
 
-<p>During the last few years, the interval between death and the payment
+During the last few years, the interval between death and the payment
 of claims has been greatly shortened; and most of the enterprising
-new<span class="pagenum" id="Page_98">{98}</span> offices have made it a point to offer settlement of the claims
+new offices have made it a point to offer settlement of the claims
 arising from death with the least possible delay. This is as it should
 be; and many of the older and more conservative offices have seen it
 to be to their advantage to abandon the three or six months’ interval
@@ -273,9 +148,9 @@ death. Many of the English offices also have within the last few years
 agreed to pay their claims sooner than heretofore. This acceleration of
 the payment of claims has long been a desired reform, and will no doubt
 result in an increased flow of business to those offices which have
-adopted it.</p>
+adopted it.
 
-<p>In order that full advantage may be taken of this concession,
+In order that full advantage may be taken of this concession,
 co-operation on the part of the assured is needed. For instance, there
 is one form of ‘self-help’ which could be practised by all—namely, the
 production of evidence of age. When proof has not been produced to the
@@ -312,9 +187,9 @@ to a minimum. When no official proof of age can be produced, offices,
 as a rule, co-operate with those interested, and admit the age when
 they have been satisfied that reasonable endeavour has been made to
 establish the correct date of birth. In all cases, it is evident how
-desirable it is that the assured should themselves see to this.</p>
+desirable it is that the assured should themselves see to this.
 
-<p>When death has occurred—that is, when, technically speaking, the
+When death has occurred—that is, when, technically speaking, the
 policy has become a claim—intimation should be given to the office
 at once, which will issue two simple and easily understood forms, one
 to be filled up and signed by the doctor who attended the deceased in
@@ -327,9 +202,9 @@ proof of death that can be obtained. In ordinary cases, the medical
 certificate not only vouches for the facts, that such and such a person
 died at such and such a place on a certain date, but it also states the
 cause of death, which is of value to the offices, as enabling them to
-elicit certain facts necessary for future statistical inquiries.</p>
+elicit certain facts necessary for future statistical inquiries.
 
-<p>The party who fills up the certificate of identity must be a person
+The party who fills up the certificate of identity must be a person
 of respectability, to whom the deceased was well known, and who is
 capable of certifying that the deceased is the same person whose life
 was assured under the policy of assurance which is being claimed upon.
@@ -338,19 +213,19 @@ address since he assured, and of course the office must be certain
 that they have the right man before paying any claim. Some offices are
 more particular than others, and require, in addition to the above two
 certificates, a copy of the entry of death in the register, certified
-by the registrar for the district.</p>
+by the registrar for the district.
 
-<p>The forms should be returned as early as possible to the office, so as
+The forms should be returned as early as possible to the office, so as
 to be submitted to the directors at their first weekly meeting. The
 claim is then admitted, and the office intimates on what day payment
 will be made, provided the title of the party who is to receive the
-money is in order and produced to the office.</p>
+money is in order and produced to the office.
 
-<p>It is not going wholly outside of our present purpose to repeat the
+It is not going wholly outside of our present purpose to repeat the
 oft-given advice, that every one possessed of a policy or other
 bequeathable property should make a will. In the amusing episode in
-the <i>Posthumous Papers of the Pickwick Club</i>, when the will of
-the landlady of the<span class="pagenum" id="Page_99">{99}</span> <i>Marquis of Granby</i> has been discovered in
+the _Posthumous Papers of the Pickwick Club_, when the will of
+the landlady of the _Marquis of Granby_ has been discovered in
 ‘the little black teapot on the top shelf of the bar closet,’ the
 elder Weller, who was named sole executor, says to his son: ‘I s’pose,
 Samivel, as it’s all right and satisfactory to you and me, as is the
@@ -365,41 +240,48 @@ must be produced, with the view of enabling the Company to prepare the
 form of discharge to be signed by the persons entitled to receive the
 money. The discharges are adjusted by the Companies free of expense to
 claimants, except in the case of insufficient or complicated titles,
-where special legal assistance is necessary.<a id="FNanchor_1" href="#Footnote_1" class="fnanchor">[1]</a></p>
+where special legal assistance is necessary.[A]
 
-<p>No more <i>popular</i> argument in favour of life-assurance could
+No more _popular_ argument in favour of life-assurance could
 be given than the manner in which our Companies discharge their
 obligations. Every year, more than ten million pounds sterling are
 dispensed throughout the land from these beneficent institutions to
 sorrowing widows in their time of need, and to helpless children
 bereaved of a father’s care, whose love thus found a way to provide for
-them when he was called away.</p>
+them when he was called away.
 
 
-<hr class="chap x-ebookmaker-drop" />
+FOOTNOTES:
 
-<div class="chapter">
-<h2 class="nobreak x-ebookmaker-important" id="BY_MEAD_AND_STREAM">BY MEAD AND STREAM.</h2>
-</div>
+[A] We may here refer to the provision of the Acts passed to facilitate
+the administration of estates under three hundred pounds. Information
+as to the simple and inexpensive mode of procedure in such cases can be
+obtained by application to the sheriff-clerks in Scotland, or to the
+Inland Revenue authorities in England.
 
 
-<h3>CHAPTER XI.—‘STRICTLY CONFIDENTIAL.’</h3>
 
-<p><span class="smcap">That</span> was the best news Martin Wrentham had heard for a long
-time. Gribble &amp; Co. were commission agents, and undertook any kind of
+
+BY MEAD AND STREAM.
+
+
+CHAPTER XI.—‘STRICTLY CONFIDENTIAL.’
+
+That was the best news Martin Wrentham had heard for a long
+time. Gribble & Co. were commission agents, and undertook any kind of
 business which promised a profit. Shipping, stocks, landed estates and
 house property; cargoes of wine, of tea, and of wool, were all equally
-welcome to the best attention of Gribble &amp; Co. Mr Wrentham was the sole
+welcome to the best attention of Gribble & Co. Mr Wrentham was the sole
 partner and representative of this impartial firm. There never had
 been a Gribble or a Co.; but there was a highly respectable and old
-established firm known as Gribble, Hastings, &amp; Co., who had nothing
+established firm known as Gribble, Hastings, & Co., who had nothing
 to do with the house in Golden Alley. There were, however, people in
 the colonies and on the continent who made mistakes, and entered into
 business relations with Mr Wrentham under the impression that they were
 dealing with the firm whose designation was so nearly the same as the
-one under which he traded.</p>
+one under which he traded.
 
-<p>The mistake was of course discovered by some, and rectified as soon as
+The mistake was of course discovered by some, and rectified as soon as
 possible; but still there were others who continued to blunder, and
 Wrentham appeared to prosper. There were envious City men who said
 that he made more out of the betting ring than out of his professed
@@ -408,387 +290,381 @@ frequently had the ‘straight tip’ for the Derby, the Oaks, Ascot,
 the St Leger, and other important racing events of the year. This
 information he was good-naturedly ready to impart to his friends,
 claiming only what he called a ‘comfortable’ percentage on the
-winnings, whilst he had no share in the losses.</p>
+winnings, whilst he had no share in the losses.
 
-<p>It had long been his ambition to open an account with the great house
-of Hadleigh &amp; Co. With this object in view, he had taken infinite pains
+It had long been his ambition to open an account with the great house
+of Hadleigh & Co. With this object in view, he had taken infinite pains
 to ingratiate himself with Mr Hadleigh, and succeeded so far that he
 became an occasional guest at the Manor: but no business came of it. He
 had courted the society of Coutts Hadleigh, flattered him, spent time
 and money in amusing him, endured his cynical jokes, and had even given
 him ‘straight tips’ without seeking a commission: still no business
-came of it.</p>
+came of it.
 
-<p>But he did not give up hope. He was cool, patient, and good-humoured,
+But he did not give up hope. He was cool, patient, and good-humoured,
 and his perseverance was rewarded. See, here is the chief partner of
 the firm come to him at last with the announcement that his visit was
-on ‘important business.’</p>
+on ‘important business.’
 
-<p>‘Upon my word, Mr Hadleigh, you give me such an agreeable surprise,
+‘Upon my word, Mr Hadleigh, you give me such an agreeable surprise,
 that I can only say we shall have pleasure in doing the utmost in our
-power to serve you satisfactorily.’</p>
+power to serve you satisfactorily.’
 
-<p>Wrentham was always frank, always eager to say the thing which he
+Wrentham was always frank, always eager to say the thing which he
 supposed would please his listener most. If he was pleased, he said
 so, and showed it; if displeased, he showed it, although he did not
 always say so. But then he was very seldom displeased; for he had the
 happy knack of turning the most offensive words or acts into a joke or
 ridicule, so that he never quarrelled with anybody—not even with the
-tax-collector.</p>
+tax-collector.
 
-<p>‘I may tell you at once,’ said Mr Hadleigh in his cold way, ‘that the
+‘I may tell you at once,’ said Mr Hadleigh in his cold way, ‘that the
 business is entirely private at present, and has nothing to do with the
-firm.’</p>
+firm.’
 
-<p>‘I shall have the more pleasure in attending to it as a friend,’ was
-the cordial reply.</p>
+‘I shall have the more pleasure in attending to it as a friend,’ was
+the cordial reply.
 
-<p>‘Thank you; but I give you credit for knowing enough of me to be aware
+‘Thank you; but I give you credit for knowing enough of me to be aware
 that I shall not take advantage of your generosity. You have heard the
-saying—there is no friendship in business.’</p>
+saying—there is no friendship in business.’
 
-<p>‘Happily, there are many exceptions to the rule,’ said Wrentham
-cheerfully.</p>
+‘Happily, there are many exceptions to the rule,’ said Wrentham
+cheerfully.
 
-<p>‘This is not to be one of them. You are to regard the transaction as
+‘This is not to be one of them. You are to regard the transaction as
 one coming to you in the ordinary course of business, but to be dealt
 with as a strictly confidential matter. Your clerks are to have nothing
-to do with it.’</p>
+to do with it.’
 
-<p>There was something in his manner, calm and quiet as it was, which
+There was something in his manner, calm and quiet as it was, which
 attracted Wrentham’s attention, puzzled him, and modified the
-enthusiasm with which he had begun the interview.</p>
+enthusiasm with which he had begun the interview.
 
-<p>‘If you will explain, Mr Hadleigh, you will find me willing to do
-whatever you require, if it is possible.’</p>
+‘If you will explain, Mr Hadleigh, you will find me willing to do
+whatever you require, if it is possible.’
 
-<p>Mr Hadleigh looked steadily in the speaker’s face, and the latter
+Mr Hadleigh looked steadily in the speaker’s face, and the latter
 leaned back on his chair, as if to afford a better light for the
 inspection. He endured the gaze with the placid smile of one who was
 prepared for the closest scrutiny into his character and motives.
 Apparently satisfied, Mr Hadleigh, speaking with much deliberation,
-proceeded:</p>
+proceeded:
 
-<p>‘I want in the first place a little information. You have been for some
-time doing business for Mr Austin Shield?’</p>
+‘I want in the first place a little information. You have been for some
+time doing business for Mr Austin Shield?’
 
-<p><span class="pagenum" id="Page_100">{100}</span></p>
+The placid smile faded from the countenance of Gribble & Co., and the
+plural pronoun came into use again.
 
-<p>The placid smile faded from the countenance of Gribble &amp; Co., and the
-plural pronoun came into use again.</p>
-
-<p>‘That is correct. He has intrusted us with various small commissions;
+‘That is correct. He has intrusted us with various small commissions;
 but they are mere trifles, I believe, compared with those he has given
 to others. Indeed, I do not think he has treated us quite so liberally
-as he ought to have done.’</p>
+as he ought to have done.’
 
-<p>There was no irritation in the last remark: it simply implied that
+There was no irritation in the last remark: it simply implied that
 Mr Shield had not acted wisely. Mr Hadleigh did not appear to have
-observed it.</p>
+observed it.
 
-<p>‘You are aware of his relationship to my children?’</p>
+‘You are aware of his relationship to my children?’
 
-<p>‘Yes; and that your son, Philip, is going out to him. Lucky for your
-son, I should say.’</p>
+‘Yes; and that your son, Philip, is going out to him. Lucky for your
+son, I should say.’
 
-<p>‘I do not wish him to go.’</p>
+‘I do not wish him to go.’
 
-<p>‘Wh—at!’ The exclamation was long drawn out, and its modulations were
+‘Wh—at!’ The exclamation was long drawn out, and its modulations were
 suggestive of a rapid series of speculations, in which curiosity and
-doubt were more predominant than surprise.</p>
+doubt were more predominant than surprise.
 
-<p>‘I do not wish him to go,’ repeated Mr Hadleigh, each word passing his
-lips like the measured stroke of a funeral bell.</p>
+‘I do not wish him to go,’ repeated Mr Hadleigh, each word passing his
+lips like the measured stroke of a funeral bell.
 
-<p>‘You take my breath away. Such a chance—such prospects! Shield is
+‘You take my breath away. Such a chance—such prospects! Shield is
 reported to be enormously wealthy, and he has no direct heirs....
 Pardon me, Mr Hadleigh, but I must say that you would be doing the
-young man a serious injury if you interfered with his uncle’s wishes.’</p>
+young man a serious injury if you interfered with his uncle’s wishes.’
 
-<p>In sickness and in sorrow there are people who feel called upon to
+In sickness and in sorrow there are people who feel called upon to
 offer you their sympathy; but there is too often a conventional ring
 in the expression of it which there is no mistaking, and even bare
 politeness in the acknowledgment of it becomes irksome. It was in this
 conventional way that Wrentham uttered his virtuous warning to the
-parent who was opposing his son’s best interests.</p>
+parent who was opposing his son’s best interests.
 
-<p>The parent understood, and smiled.</p>
+The parent understood, and smiled.
 
-<p>‘Strange as it may seem to you, Mr Wrentham, my desire is that not one
-of my children should be mentioned in that man’s will.’</p>
+‘Strange as it may seem to you, Mr Wrentham, my desire is that not one
+of my children should be mentioned in that man’s will.’
 
-<p>‘Extraordinary! But you were always peculiar in your views of things.
+‘Extraordinary! But you were always peculiar in your views of things.
 To be sure, your views generally turned out to be the right ones.
 Everybody in the City is aware of that. But I do not see yet how my
-services can be of any use to you in this matter.’</p>
+services can be of any use to you in this matter.’
 
-<p>‘The service I require will not be difficult to render. You have been
+‘The service I require will not be difficult to render. You have been
 for some years in correspondence with Mr Shield, and you know more
 about his affairs than any one in London except his solicitors. I want
 you to tell me all that you have learned regarding his intentions
-concerning Philip.’</p>
+concerning Philip.’
 
-<p>‘That is easily done. I have learned absolutely nothing.’</p>
+‘That is easily done. I have learned absolutely nothing.’
 
-<p>Wrentham was quite cheerful again as he gave this reply.</p>
+Wrentham was quite cheerful again as he gave this reply.
 
-<p>Mr Hadleigh was disappointed: he was silent and thoughtful for a few
-moments. Then: ‘I begin to see his purpose.’</p>
+Mr Hadleigh was disappointed: he was silent and thoughtful for a few
+moments. Then: ‘I begin to see his purpose.’
 
-<p>‘I should be glad if you would enlighten me,’ said Wrentham eagerly:
-‘it might be useful to me.’</p>
+‘I should be glad if you would enlighten me,’ said Wrentham eagerly:
+‘it might be useful to me.’
 
-<p>‘I am quite sure it will be. But first you must give me a full
+‘I am quite sure it will be. But first you must give me a full
 explanation of his affairs, so far as you are acquainted with them, and
 the nature of this business which has brought him such sudden wealth,
-and which he is at so much pains to keep secret.’</p>
+and which he is at so much pains to keep secret.’
 
-<p>Wrentham’s cheerfulness disappeared, and he rose uneasily.</p>
+Wrentham’s cheerfulness disappeared, and he rose uneasily.
 
-<p>‘I am sorry, Mr Hadleigh, that you should ask me for information which
-I am not at liberty to give.’</p>
+‘I am sorry, Mr Hadleigh, that you should ask me for information which
+I am not at liberty to give.’
 
-<p>‘You mean that his business is of so much value that you cannot risk
-the loss of it?’</p>
+‘You mean that his business is of so much value that you cannot risk
+the loss of it?’
 
-<p>‘Of course—of course, his business is of some importance to us,
+‘Of course—of course, his business is of some importance to us,
 although, as I have already mentioned, he has not treated us quite so
 liberally as we think he ought to have done. Besides, we have only a
-small part of his patronage.’</p>
+small part of his patronage.’
 
-<p>‘All the same you would not like to lose it?’</p>
+‘All the same you would not like to lose it?’
 
-<p>‘Well, not unless something better offered itself,’ replied Wrentham,
+‘Well, not unless something better offered itself,’ replied Wrentham,
 recovering a degree of his jaunty manner, as he recollected that he was
 speaking to the head of a great firm whose influence might bring him
 thousands a year. It would never do to display to such a man either too
-much weakness or too much indifference.</p>
+much weakness or too much indifference.
 
-<p>‘But if that something better did not present itself, you would be
+‘But if that something better did not present itself, you would be
 sorry to lose the connection. I suppose it is necessary to tell you
 what my surmise is as to his intentions. He intends to establish Philip
 as his sole representative in England, and everything will be taken
 out of your hands. I may be able to help you, if you will give me the
-information which will put it in my power to do so.’</p>
+information which will put it in my power to do so.’
 
-<p>Wrentham walked to the window, stared at the blank wall opposite, and
-frowned at it.</p>
+Wrentham walked to the window, stared at the blank wall opposite, and
+frowned at it.
 
-<p>Mr Hadleigh smiled at his evident alarm, and attempted to relieve it.</p>
+Mr Hadleigh smiled at his evident alarm, and attempted to relieve it.
 
-<p>‘You need not be afraid to trust me; I am not inviting you to enter
+‘You need not be afraid to trust me; I am not inviting you to enter
 into a conspiracy against Mr Shield. I have no evil design in my
-inquiries.’</p>
+inquiries.’
 
-<p>‘I am sure of that,’ responded Wrentham, wheeling round. Every sign
+‘I am sure of that,’ responded Wrentham, wheeling round. Every sign
 of alarm had vanished from his visage. ‘But of what use could the
 information be to you? Giving it might do me a great deal of harm,
-whilst it could not serve you.’</p>
+whilst it could not serve you.’
 
-<p>‘Of that you cannot judge. But we need not discuss the point further at
+‘Of that you cannot judge. But we need not discuss the point further at
 present. Take time and consider. Meanwhile, you can have no objection
 to do this for me—telegraph to him that you learn from me that Philip
-goes out to him against my will.’</p>
+goes out to him against my will.’
 
-<p>‘It shall be done immediately, and I will bring you the answer myself.’</p>
+‘It shall be done immediately, and I will bring you the answer myself.’
 
-<p>There was a tap at the door, and the clerk entered with a slip of paper
-which he handed to his master.</p>
+There was a tap at the door, and the clerk entered with a slip of paper
+which he handed to his master.
 
-<p>‘All right, Perkins. Shall be disengaged in a few minutes.’</p>
+‘All right, Perkins. Shall be disengaged in a few minutes.’
 
-<p>As the clerk closed the door behind him, Wrentham handed the paper to
+As the clerk closed the door behind him, Wrentham handed the paper to
 his visitor, who read on it, ‘Mr Philip Hadleigh,’ and instantly rose
-to go.</p>
+to go.
 
-<p>‘Perhaps—you will excuse me—but perhaps it would be as well if you
-did not meet each other here at present. Here is my private door.’</p>
+‘Perhaps—you will excuse me—but perhaps it would be as well if you
+did not meet each other here at present. Here is my private door.’
 
-<p>‘I expect to see you this evening with the answer to the telegram,’
-said Mr Hadleigh quietly as he went out.</p>
+‘I expect to see you this evening with the answer to the telegram,’
+said Mr Hadleigh quietly as he went out.
 
-<p>‘You shall see me whether the answer has arrived or not.’</p>
+‘You shall see me whether the answer has arrived or not.’
 
-<p><span class="pagenum" id="Page_101">{101}</span></p>
-
-<p>When he had closed the door, Wrentham stood still, unconscious,
+When he had closed the door, Wrentham stood still, unconscious,
 apparently, that he was resting on the handle, although it seemed as
 if he were half-inclined to call Mr Hadleigh back. His expression had
 changed to a frown at some invisible object on the floor, and his head
-was slightly bowed. This was his thought:</p>
+was slightly bowed. This was his thought:
 
-<p>‘Have I lost a chance, or opened the way to one?... Eminently
+‘Have I lost a chance, or opened the way to one?... Eminently
 unsatisfactory, if I have not. He must have some game on.... No
 designs! As if he could gammon me into the notion that he was the sort
 of man to bother himself about other people’s affairs without good
-reason for it. A hundred to one on <i>that</i> event. But if Shield
-does mean to take everything out of my hands’——</p>
+reason for it. A hundred to one on _that_ event. But if Shield
+does mean to take everything out of my hands’——
 
-<p>He frowned still more darkly at the invisible object on the floor, and
+He frowned still more darkly at the invisible object on the floor, and
 the speculation ended in a chaos of disagreeable reflections. With a
-quick jerk of the head he roused himself.</p>
+quick jerk of the head he roused himself.
 
-<p>‘We’ll see,’ he muttered as he advanced to the table and touched a
-hand-bell twice.</p>
+‘We’ll see,’ he muttered as he advanced to the table and touched a
+hand-bell twice.
 
-<p>The habitual smile had returned to his face when Philip entered the
-room.</p>
+The habitual smile had returned to his face when Philip entered the
+room.
 
-<p>‘I shall not keep you many minutes to-day, Mr Wrentham. But I suppose
+‘I shall not keep you many minutes to-day, Mr Wrentham. But I suppose
 you will have to give me an hour or so on the earliest date you can
-appoint.’</p>
+appoint.’
 
-<p>‘It will be a pleasure to me whatever it may be to you. I suppose it is
-business. I shall make it as easy for you as I can. What is it?’</p>
+‘It will be a pleasure to me whatever it may be to you. I suppose it is
+business. I shall make it as easy for you as I can. What is it?’
 
-<p>‘I have just got this from Hawkins and Jackson, which, they tell me, my
+‘I have just got this from Hawkins and Jackson, which, they tell me, my
 uncle inclosed to them with instructions that they were to see that I
-gave personal attention to the matter.’</p>
+gave personal attention to the matter.’
 
-<p>Wrentham read the note, placed it in a clip bearing the word
-‘Immediate’ in large capitals, and looked up again.</p>
+Wrentham read the note, placed it in a clip bearing the word
+‘Immediate’ in large capitals, and looked up again.
 
-<p>‘Your uncle might have sent this to me direct—I should have liked it
+‘Your uncle might have sent this to me direct—I should have liked it
 better; but he has a curious way of doing things. You are to have a
 full statement of my accounts with him, and it is to be duly audited by
 a professional accountant. This looks as if he intended to close the
-account altogether.’</p>
+account altogether.’
 
-<p>‘I hope not.’</p>
+‘I hope not.’
 
-<p>‘Well, the statement will be ready for you on Wednesday next week, and
+‘Well, the statement will be ready for you on Wednesday next week, and
 you shall have every assistance and explanation you may require from
-me.’</p>
+me.’
 
-<p>‘Thank you. At what hour shall I call?’</p>
+‘Thank you. At what hour shall I call?’
 
-<p>‘Ten o’clock. I expect you will have a long day of it.’</p>
+‘Ten o’clock. I expect you will have a long day of it.’
 
-<p>‘We cannot help that, I suppose, and I need not take up more of your
-time at present.’</p>
+‘We cannot help that, I suppose, and I need not take up more of your
+time at present.’
 
-<p>‘Are you in a hurry? Because I am going out to have some luncheon, and
-you might join me.’</p>
+‘Are you in a hurry? Because I am going out to have some luncheon, and
+you might join me.’
 
-<p>The invitation was given so cordially, that Philip could not decline,
+The invitation was given so cordially, that Philip could not decline,
 and they went out by the private door together. At the mouth of the
 alley they were passed by a smart little man with thin clean-shaved
 face, wearing a soft felt hat, a loose black frock-coat, and gray tweed
 trousers. He carried in his hand a folding trestle and a well-filled
 green bag, and under his arm was a small circular table top covered
-with green baize.</p>
+with green baize.
 
-<p>He lifted his hat to Philip, who acknowledged the salute with a
+He lifted his hat to Philip, who acknowledged the salute with a
 pleasant nod. Wrentham’s attention was attracted by something in
-another direction, and the little man went swiftly on his way.</p>
+another direction, and the little man went swiftly on his way.
 
-<p>‘That’s the juggler Bob Tuppit,’ said Philip to his companion. ‘Haven’t
+‘That’s the juggler Bob Tuppit,’ said Philip to his companion. ‘Haven’t
 you seen him down our way? I suppose he has just had a successful
 performance in some quiet court, he looks so cheery. Clever fellow;
 works ten and twelve hours a day, and tells me he makes a decent income
-out of it.’</p>
+out of it.’
 
-<p>‘Is he an acquaintance of yours?’ inquired Wrentham, somewhat drily.</p>
+‘Is he an acquaintance of yours?’ inquired Wrentham, somewhat drily.
 
-<p>‘I have had several chats with him, and found him a most interesting
-and intelligent fellow.’</p>
+‘I have had several chats with him, and found him a most interesting
+and intelligent fellow.’
 
-<p>‘Has he told you anything about his family?’</p>
+‘Has he told you anything about his family?’
 
-<p>‘Nothing more than that he is married; has a troop of children, and a
-comfortable home.’</p>
+‘Nothing more than that he is married; has a troop of children, and a
+comfortable home.’
 
-<p>‘Ah, that is not like the ordinary tramp. But I wouldn’t cultivate his
+‘Ah, that is not like the ordinary tramp. But I wouldn’t cultivate his
 acquaintance, if I were you. No doubt he told you all about his birth
 and parentage, and got a sovereign out of you on the strength of being
-a poor orphan.’</p>
+a poor orphan.’
 
-<p>‘He told me that he had been born and brought up in London; but he
+‘He told me that he had been born and brought up in London; but he
 has travelled over the whole country in his professional capacity.
 He speaks of his juggling as a “profession.” He is an orphan, as you
-guessed; but he has a brother somewhere.’</p>
+guessed; but he has a brother somewhere.’
 
-<p>‘And what might his profession be?’ said Wrentham with a quick
-side-glance at Philip.</p>
+‘And what might his profession be?’ said Wrentham with a quick
+side-glance at Philip.
 
-<p>‘I don’t know. Tuppit is shy of talking about him; and from his
+‘I don’t know. Tuppit is shy of talking about him; and from his
 sorrowful way of mentioning the fact that he had a brother, I came to
 the conclusion that the fellow was in prison, or something of that
-sort. So I did not put any disagreeable questions.’</p>
+sort. So I did not put any disagreeable questions.’
 
-<p>They had entered the dining-room of the Gog and Magog Club by this
+They had entered the dining-room of the Gog and Magog Club by this
 time; and amidst the clatter of plates and knives and forks, and the
 loud hum of voices, Wrentham pointed to the bill of fare, which was
 hung up beside the clerk’s desk, and said hastily: ‘What are you to
-have?’</p>
+have?’
 
+       *       *       *       *       *
 
-<p class="p2">Mr Hadleigh had been much more disappointed by the result of his
+Mr Hadleigh had been much more disappointed by the result of his
 interview with Wrentham than he had allowed to appear. He had gone to
 him with the vague hope that he might learn something about Austin
 Shield, which should give him an excuse for making another appeal to
 Madge. He had learned nothing. There was, however, a probability that
 when his objection was made known to Shield, the latter would himself
-withdraw the invitation he had sent to Philip.</p>
+withdraw the invitation he had sent to Philip.
 
-<p>In the evening, Wrentham presented himself at the Manor. No answer to
+In the evening, Wrentham presented himself at the Manor. No answer to
 the telegram had yet arrived: the conversation in the library occupied
 an hour notwithstanding. Shortly after noon on the following day,
 Wrentham brought the expected answer to Mr Hadleigh, who was waiting
-for it in his private room in the office of his firm.</p>
+for it in his private room in the office of his firm.
 
-<p>‘<i>My sister’s son must decide for himself.</i>’</p>
+‘_My sister’s son must decide for himself._’
 
-<p>‘It is like the man,’ muttered Mr Hadleigh, as he tore up the paper.
-‘Now, you can make your choice—his business or mine.’</p>
+‘It is like the man,’ muttered Mr Hadleigh, as he tore up the paper.
+‘Now, you can make your choice—his business or mine.’
 
-<p>‘I shall give you an answer in half an hour.’</p>
+‘I shall give you an answer in half an hour.’
 
-<p>Wrentham returned to his office, and entered it by the private door.
+Wrentham returned to his office, and entered it by the private door.
 He took a half-crown from his pocket and balanced it on his forefinger
-and<span class="pagenum" id="Page_102">{102}</span> thumb. He gazed at it steadily for a moment, then tossed it up.</p>
+and thumb. He gazed at it steadily for a moment, then tossed it up.
 
-<p>‘Heads for Hadleigh—tails for Shield and sudden death.... Heads it is,
-and Hadleigh’s my man.’</p>
+‘Heads for Hadleigh—tails for Shield and sudden death.... Heads it is,
+and Hadleigh’s my man.’
 
-<p>He picked up the coin, seated himself at his writing-table, and
+He picked up the coin, seated himself at his writing-table, and
 proceeded to communicate his decision to Mr Hadleigh with as much
-gravity as if he had arrived at it after serious deliberation.</p>
+gravity as if he had arrived at it after serious deliberation.
 
 
-<hr class="chap x-ebookmaker-drop" />
-
-<div class="chapter">
-<h2 class="nobreak" id="FAMILIAR_SKETCHES_OF_ENGLISH_LAW">FAMILIAR SKETCHES OF ENGLISH LAW.</h2>
-</div>
-
-<p class="ph3">BY AN EXPERIENCED PRACTITIONER.</p>
 
 
-<p><span class="smcap">It</span> is not necessary for the writer of these sketches to
-declare which branch of the legal profession he belongs to, but it
-appears desirable to explain the purpose for which they are written.
-The laws of our land are so numerous and complicated, and derived from
-so many sources, that it is impossible for any human mind to make
-itself thoroughly acquainted with all their multifarious details,
-however familiar the general principles of the law may have become.
-And yet every one of the Queen’s subjects is responsible for any
-breach of the law which he or she may commit. The reason of this is
-obvious: a law which might be broken with impunity on the excuse that
-the law-breaker was ignorant of its existence, would be an absurdity.
-If laws are to be of any use, they must be universally binding, on
-the learned and unlearned, within the sphere of their operation. In
-the course of a long, extensive, and varied professional experience,
-we have often been astonished to find profound ignorance of legal
-principles and responsibilities in unexpected quarters; and it has
-occurred to us that a few familiar articles on the laws which affect
-the different relationships of social life might be both interesting
-and useful. Many of the principles which affect persons in the
-characters of husband and wife, parent and child, master and servant,
-and so forth, are easily understood, if explained in simple language
-and free from technicalities.</p>
+FAMILIAR SKETCHES OF ENGLISH LAW.
 
-<p>In so doing, we have no intention to interfere with the proper province
+BY AN EXPERIENCED PRACTITIONER.
+
+
+It is not necessary for the writer of these sketches to declare which
+branch of the legal profession he belongs to, but it appears desirable
+to explain the purpose for which they are written. The laws of our land
+are so numerous and complicated, and derived from so many sources,
+that it is impossible for any human mind to make itself thoroughly
+acquainted with all their multifarious details, however familiar the
+general principles of the law may have become. And yet every one of
+the Queen’s subjects is responsible for any breach of the law which he
+or she may commit. The reason of this is obvious: a law which might be
+broken with impunity on the excuse that the law-breaker was ignorant
+of its existence, would be an absurdity. If laws are to be of any use,
+they must be universally binding, on the learned and unlearned, within
+the sphere of their operation. In the course of a long, extensive,
+and varied professional experience, we have often been astonished to
+find profound ignorance of legal principles and responsibilities in
+unexpected quarters; and it has occurred to us that a few familiar
+articles on the laws which affect the different relationships of social
+life might be both interesting and useful. Many of the principles which
+affect persons in the characters of husband and wife, parent and child,
+master and servant, and so forth, are easily understood, if explained
+in simple language and free from technicalities.
+
+In so doing, we have no intention to interfere with the proper province
 of the solicitor or the barrister. The law has in many respects been
 much simplified during the present century; but still the proverb
 remains true, ‘He who is his own lawyer has a fool for his client.’
@@ -801,15 +677,15 @@ the testator. And in actions and other legal proceedings, where the
 rights of the parties depend upon the application of established legal
 principles to new combinations of facts which are themselves doubtful
 and capable of being considered from opposite points of view, the
-necessity for professional assistance is too obvious to require comment.</p>
+necessity for professional assistance is too obvious to require comment.
 
 
-<h3>I. MARRIAGES; SETTLEMENTS; AND BREACHES OF PROMISE TO MARRY.</h3>
+I. MARRIAGES; SETTLEMENTS; AND BREACHES OF PROMISE TO MARRY.
 
-<p>The contract of marriage lies at the foundation of our social system;
+The contract of marriage lies at the foundation of our social system;
 and therefore we select it and other matters incidentally relating
 thereto for explanation and comment in the first instance, reserving
-for a future paper the law of <i>Scotch</i> marriages, as apart from
+for a future paper the law of _Scotch_ marriages, as apart from
 that which now holds good south of the Border; but noting in the
 meantime, that prior to 25th March 1754, when Lord Hardwick’s Act came
 into operation, the theory of the law in both countries was, that the
@@ -818,15 +694,15 @@ constituted marriage, if proved by credible evidence. But in England,
 a marriage by mere words of consent did not confer all the rights
 consequent on a marriage duly solemnised. Since 1754, the English law
 has required definite technicalities of evidence, which, however, have
-been much restricted in their scope for injustice.</p>
+been much restricted in their scope for injustice.
 
-<p>In considering the first part of our subject, ‘Who may marry’, it will
+In considering the first part of our subject, ‘Who may marry’, it will
 be most convenient to deal with the question negatively; and when we
 have seen who must not marry, it must be understood that persons not
 coming within any of the categories specified are at liberty to enter
-into the legal contract of matrimony.</p>
+into the legal contract of matrimony.
 
-<p>Foremost among the disabilities is insufficient age. In this respect
+Foremost among the disabilities is insufficient age. In this respect
 the law is extremely indulgent, fixing the age for a male at fourteen,
 and for a female at twelve years. But there is a qualified disability
 beyond those ages: a person who has not been previously married, and
@@ -849,9 +725,9 @@ of gentlemen being punished in the same way. Nullity of the marriage
 is not now the result of this disability; but the man who procures a
 license by affirming that he is of full age when he is not, or that the
 necessary consent has been obtained when it has not, may be punished
-both civilly and criminally.</p>
+both civilly and criminally.
 
-<p>Another disability is want of sanity. It is not to be understood that
+Another disability is want of sanity. It is not to be understood that
 weak-minded people must not marry; they can, and do in considerable
 numbers. But if a person who is a lunatic go through the form of
 marriage, except during a lucid interval, the marriage is void. This
@@ -859,11 +735,9 @@ objection to the validity of a marriage does not often occur; but
 sometimes the question whether a man was lunatic or of sound mind when
 married is difficult to determine, but most likely to be settled in
 favour of his sanity, unless there was manifestly some fraudulent or
-sordid motive for the marriage.</p>
+sordid motive for the marriage.
 
-<p><span class="pagenum" id="Page_103">{103}</span></p>
-
-<p>Nearness of relationship, either by birth or marriage, is another
+Nearness of relationship, either by birth or marriage, is another
 disability. First-cousins and all persons more distantly related, may
 lawfully intermarry. But ancestors and descendants in the direct line
 are prohibited; as are also brothers and sisters, uncles and nieces,
@@ -876,9 +750,9 @@ of the parties thereto; so that if the marriage were not set aside
 during the lives of both parties, on the death of either of them it was
 treated as having been a valid marriage, and the children born thereof
 were legitimate to all intents and purposes. But in that year an Act of
-Parliament was passed declaring such marriages void in future.</p>
+Parliament was passed declaring such marriages void in future.
 
-<p>The last existing disability which we shall notice is that of being
+The last existing disability which we shall notice is that of being
 married already. A married person cannot legally marry again until the
 first marriage is dissolved, either by death or by a judicial decree.
 On this subject much misapprehension exists. Many persons believe that
@@ -891,14 +765,14 @@ in those circumstances the woman could not be convicted of bigamy. For
 that purpose alone, the presumption of the husband’s death after seven
 years of absence without any information as to his continued existence,
 would be recognised by the law, and might be pleaded as a defence to an
-indictment for bigamy.</p>
+indictment for bigamy.
 
-<p>Formerly, an engagement to any other person was a bar to marriage. If
+Formerly, an engagement to any other person was a bar to marriage. If
 A promised to marry B, he could not marry C unless B absolved him from
 his promise. But this disability has long been abolished, though B
-might sue A for breach of promise.</p>
+might sue A for breach of promise.
 
-<p>The next consideration is, ‘How to marry.’ Excluding the Royal Marriage
+The next consideration is, ‘How to marry.’ Excluding the Royal Marriage
 Act, and merely drawing attention to the fact that a marriage between
 two members of the Society of Friends (or Quakers) at a meeting-house,
 or between two Jews either at a synagogue or elsewhere, were not
@@ -912,16 +786,16 @@ day. These licenses are issued at the Faculty Office, on sufficient
 cause being shown, and verified by affidavit. It is not very difficult
 to find a reason which will be satisfactory to the officials, if an
 applicant be willing to strain his own conscience. A special license,
-however, costs about thirty pounds.</p>
+however, costs about thirty pounds.
 
-<p>An ordinary license can only be issued for solemnisation of matrimony
+An ordinary license can only be issued for solemnisation of matrimony
 in a parish in which one of the parties has resided for at least
 fifteen days previously; and if what is termed a caveat should have
 been entered against the granting of a license, the objection raised
 thereby must be disposed of by the Court, or the caveat be withdrawn,
-before the license can be granted.</p>
+before the license can be granted.
 
-<p>If the marriage is to be performed in an Episcopal church by license,
+If the marriage is to be performed in an Episcopal church by license,
 one of the parties must attend at the vicar-general’s office, the
 diocesan registry, or before a surrogate—a clergyman appointed by the
 bishop for the purpose of granting ordinary marriage licenses—and
@@ -929,23 +803,23 @@ swear that there is no impediment of kindred or alliance, or other
 lawful hindrance to the marriage; and also as to the residence in the
 parish, and the consent of parent or guardian if necessary. It will be
 remembered that an infant widow or widower may remarry without such
-consent.</p>
+consent.
 
-<p>A cheaper way of being married according to the rites of the Church
+A cheaper way of being married according to the rites of the Church
 of England is after publication of banns. This consists in reading
 the names of the parties publicly on three successive Sundays at a
 prescribed part of the service. If both parties do not reside in one
 parish, the banns must be published in both their respective parishes;
 and if either of the parties be a minor—not having been previously
 married—his or her parent or guardian may publicly declare his or her
-dissent, and thereupon the publication of banns is void.</p>
+dissent, and thereupon the publication of banns is void.
 
-<p>Marriage, whether by license or by banns, must be celebrated within
+Marriage, whether by license or by banns, must be celebrated within
 three months, or the whole of the preliminaries must be gone through
 anew. All marriages in England must be between eight o’clock in the
-forenoon and twelve at noon, except marriages by special license.</p>
+forenoon and twelve at noon, except marriages by special license.
 
-<p>Questions often arise as to the name in which a person should be
+Questions often arise as to the name in which a person should be
 married. As a general rule, the same name should be used for this
 as for the ordinary business of every-day life—the name by which
 the person is generally known. If John Jones has called himself John
@@ -957,9 +831,9 @@ person known by them as John Robinson proposed to get married. Accuracy
 in name is now, however, of little importance, because the use of a
 false name no longer renders a marriage null, unless both the man and
 the woman are parties to the fraud, and so a favourite device of a
-hundred years ago is legally impracticable.</p>
+hundred years ago is legally impracticable.
 
-<p>It is not necessary to dwell upon the form of the service used in the
+It is not necessary to dwell upon the form of the service used in the
 solemnisation of matrimony. It is, or may become, familiar to all
 persons interested. But perhaps it may not be universally known that
 the celebration of marriage without license or due publication of banns
@@ -968,9 +842,9 @@ with hard labour. In addition to the clergyman, there must be at least
 two witnesses present, and the marriage must be registered. The subject
 of registration of marriages will be most conveniently considered
 hereafter, in conjunction with the laws relating to registration of
-births and deaths.</p>
+births and deaths.
 
-<p>Previous to 1st March 1837, the only marriages<span class="pagenum" id="Page_104">{104}</span> recognised by the law
+Previous to 1st March 1837, the only marriages recognised by the law
 in England were those above referred to; but on and since that date,
 it has been allowed for Nonconformist ministers to celebrate marriages
 in places of worship duly registered for that purpose; and for persons
@@ -987,43 +861,43 @@ the Superintendent Registrar issues his certificate, authorising the
 celebration of the marriage. When the parties do not both reside in
 one district, it sometimes happens that the non-resident party comes
 without the requisite certificate, when the wedding has to be postponed
-to another day.</p>
+to another day.
 
-<p>The notice of intention to marry, whether with license or without, has
+The notice of intention to marry, whether with license or without, has
 a statutory declaration—equivalent to an affidavit—subjoined, to the
 same effect as is required before the granting of an ordinary license
-by a surrogate.</p>
+by a surrogate.
 
-<p>The form of marriage service at a Nonconformist place of worship is
+The form of marriage service at a Nonconformist place of worship is
 usually somewhat similar to that used by the Church of England; in
 some cases more concise, in others more diffuse. It is essential that
 in some part of the ceremony both parties should declare that they
 respectively know of no lawful impediment; and that each should take
 the other to be his or her lawful wedded wife or husband; and that a
 Registrar of Marriages should be present, in addition to the minister
-and two or more witnesses.</p>
+and two or more witnesses.
 
-<p>The form of marriage at the office of a Superintendent Registrar,
+The form of marriage at the office of a Superintendent Registrar,
 or what may be called a purely civil marriage, is very short, being
 practically confined to the declarations of no impediment and the
 mutual taking. The Superintendent Registrar, Registrar of Marriages,
-and two other witnesses, must be present.</p>
+and two other witnesses, must be present.
 
-<p>The notice of marriage without license, which is equivalent to
+The notice of marriage without license, which is equivalent to
 publication of banns, has the advantage of comparative privacy; it is
 suspended in the register office twenty-one days, but is not otherwise
-published.</p>
+published.
 
-<p>In some cases, marriages may be celebrated in an adjoining district in
+In some cases, marriages may be celebrated in an adjoining district in
 which neither of the parties resides; that is, when they belong to any
 body of Christians who have not a place of worship within the district
-of residence.</p>
+of residence.
 
-<p>Licenses and certificates for marriage are only good for three calendar
+Licenses and certificates for marriage are only good for three calendar
 months from the date of the notice; and any person unduly celebrating a
-marriage under these Acts is declared to be guilty of felony.</p>
+marriage under these Acts is declared to be guilty of felony.
 
-<p>Marriages of citizens of this country abroad are generally celebrated
+Marriages of citizens of this country abroad are generally celebrated
 at the British consul’s office, and had better, in cases of doubt, not
 be entered into without his advice, especially if one of the parties
 to the proposed contract be a foreigner. Indeed, even in this country
@@ -1035,9 +909,9 @@ for want of some of the consents required by the French law, he may,
 though bound in this country, be able to return to his own, and plead
 successfully that his marriage here was entirely null. Indeed, many
 aliens can do this and the like of it; and all Englishwomen ought to
-know how little the law of England can do for them in a foreign country.</p>
+know how little the law of England can do for them in a foreign country.
 
-<p>‘A settlement’ may be made either before or after marriage. The former
+‘A settlement’ may be made either before or after marriage. The former
 is properly called a Marriage Settlement; the latter, a Post-nuptial
 Settlement. The rules of law by which these two classes of settlements
 stand or fall are essentially different; the former being made for
@@ -1056,9 +930,9 @@ afterwards, unless the parties claiming under the settlement can prove
 that the settler was at the date of the settlement able to pay all
 his debts without resorting to the property settled. In any event,
 bankruptcy or liquidation within two years is fatal to a voluntary
-settlement—in which class post-nuptial settlements are comprised.</p>
+settlement—in which class post-nuptial settlements are comprised.
 
-<p>The trusts of a settlement vary greatly according to the nature and
+The trusts of a settlement vary greatly according to the nature and
 value of the property settled and the position of the parties. But
 all settlements have this in common—the property to be settled is
 conveyed or assigned to trustees, upon certain trusts for the benefit
@@ -1068,20 +942,20 @@ their joint lives, or the survivor of them, to direct what share each
 child shall have. This power is often very useful in keeping the young
 people out of the hands of money-lenders. So long as the share which a
 young gentleman is to receive after the death of his parents remains
-uncertain, his reversionary interest is not a marketable security.</p>
+uncertain, his reversionary interest is not a marketable security.
 
-<p>In England, marriage operates as a revocation of a will made
+In England, marriage operates as a revocation of a will made
 previously; but in Scotland it only partially revokes the will. The
 reason of this difference is, that by the law of England, a testator,
 whether married or single, may devise and bequeath all the property
 of which he may be possessed at the time of his decease; while the
 testamentary powers of a person whose domicile is in Scotland, if he
 be a married man, or a widower with children, are to a certain degree
-restricted.</p>
+restricted.
 
-<p>‘Breach of promise of marriage’ is good ground for an action; and
+‘Breach of promise of marriage’ is good ground for an action; and
 the agreement to marry has one peculiarity which distinguishes it
-from contracts for the sale of goods of the value of ten<span class="pagenum" id="Page_105">{105}</span> pounds or
+from contracts for the sale of goods of the value of ten pounds or
 upwards—it need not be in writing, even though the damages claimed
 may be ten thousand pounds or more. An infant may—by his next
 friend—maintain an action against an adult for breach of promise;
@@ -1096,246 +970,244 @@ plaintiff when exposed to a severe and protracted cross-examination.
 The House of Commons, at the instance of Sir F. Herschell, now
 Solicitor-general, a few years ago expressed an opinion adverse to
 the action in question. Whether that opinion will be followed by
-legislation on the subject, is probably only a question of time.</p>
+legislation on the subject, is probably only a question of time.
 
 
-<hr class="chap x-ebookmaker-drop" />
-
-<div class="chapter">
-<h2 class="nobreak" id="TWO_DAYS_IN_A_LIFETIME">TWO DAYS IN A LIFETIME.</h2>
-</div>
-
-<p class="ph3">A STORY IN EIGHT CHAPTERS.</p>
 
 
-<h3>CHAPTER VII.</h3>
+TWO DAYS IN A LIFETIME.
 
-<p><span class="smcap">When</span> he entered the room, Estelle looked up lazily from her
-cushions. ‘How much longer have we to stay here, <i>caro mio</i>?’ she
-asked with a yawn.</p>
+A STORY IN EIGHT CHAPTERS.
 
-<p>‘The carriage will be round in half an hour.’ He sat down a little
+
+CHAPTER VII.
+
+When he entered the room, Estelle looked up lazily from her
+cushions. ‘How much longer have we to stay here, _caro mio_?’ she
+asked with a yawn.
+
+‘The carriage will be round in half an hour.’ He sat down a little
 wearily near the window, and turned his eyes on the pleasant scene
 outside. There was nothing more to be done till the carriage should
-arrive.</p>
+arrive.
 
-<p>‘<i>Bien.</i> We shall just have time for a little <i>tête-à-tête</i>.’
+‘_Bien._ We shall just have time for a little _tête-à-tête_.’
 She re-arranged the pillows of the couch to her liking, and smoothed
 down the skirts of her dress complacently. Suddenly her eye was caught
 by the glistening of the wedding-ring on her finger. She gave a little
 start, and glanced round with the air of one who has lost something.
 ‘Where can I have mislaid them?’ she asked herself under her breath. ‘I
-must have left them either in the dining-room or up-stairs. <i>Quelle
-bêtise!</i>’ Then after a moment: ‘Ah, bah! what does it matter? He
+must have left them either in the dining-room or up-stairs. _Quelle
+bêtise!_’ Then after a moment: ‘Ah, bah! what does it matter? He
 suspects nothing.’ Addressing her husband, she said abruptly: ‘Listen
 to me, Oscar Boyd. A little while ago, I offered to relieve you of my
 presence for ever on condition that you paid me two thousand pounds.
 You foolishly refused. Well, I will not be hard on you. You tell me
 that you are a poor man, and I will not dispute the fact. I am willing
 to reduce my terms. Give me one thousand pounds, and you shall never
-see me again after to-day.’</p>
+see me again after to-day.’
 
-<p>‘I will give you nothing, and I will never see you after to-morrow.’</p>
+‘I will give you nothing, and I will never see you after to-morrow.’
 
-<p>‘I am your wife, and you are compelled to keep me.’</p>
+‘I am your wife, and you are compelled to keep me.’
 
-<p>‘But not to see you.’</p>
+‘But not to see you.’
 
-<p>‘It would be better for you to give me the thousand down and get rid of
-me for ever.’</p>
+‘It would be better for you to give me the thousand down and get rid of
+me for ever.’
 
-<p>‘You know my decision.’</p>
+‘You know my decision.’
 
-<p>‘Ah, you don’t know what you are rejecting. You will repent your folly
-to the last day of your life.’</p>
+‘Ah, you don’t know what you are rejecting. You will repent your folly
+to the last day of your life.’
 
-<p>His only answer was to look at his watch.</p>
+His only answer was to look at his watch.
 
-<p>‘This, then, is your programme,’ she resumed. ‘We shall reach London
-to-night, and part at the terminus?’</p>
+‘This, then, is your programme,’ she resumed. ‘We shall reach London
+to-night, and part at the terminus?’
 
-<p>‘That is so.’</p>
+‘That is so.’
 
-<p>‘And I shall meet you at noon to-morrow at a certain address, when you
-will be prepared to inform me what my future income will be?’</p>
+‘And I shall meet you at noon to-morrow at a certain address, when you
+will be prepared to inform me what my future income will be?’
 
-<p>He inclined his head gravely.</p>
+He inclined his head gravely.
 
-<p>‘To that meeting I shall bring with me a lawyer, in order to make sure
+‘To that meeting I shall bring with me a lawyer, in order to make sure
 that my interests are properly represented. As your wife, I am entitled
 to a certain definite proportion of your income. It will be my lawyer’s
 business to ascertain in the first place the amount of your income; and
-in the second, to what share of it I am entitled.’</p>
+in the second, to what share of it I am entitled.’
 
-<p>‘As you please.’</p>
+‘As you please.’
 
-<p>There was silence for a few moments, then she said: ‘Oscar Boyd, have
+There was silence for a few moments, then she said: ‘Oscar Boyd, have
 you asked yourself why I have come so many thousands of miles, and put
-myself to so much trouble and expense, in order to find you?’</p>
+myself to so much trouble and expense, in order to find you?’
 
-<p>‘You wanted money, and you had been told that I was a rich man.’</p>
+‘You wanted money, and you had been told that I was a rich man.’
 
-<p>She clapped her hands, and laughed shrilly. ‘<i>Vous avez raison,
-Monsieur.</i> I compliment you on your penetration. You were not so
+She clapped her hands, and laughed shrilly. ‘_Vous avez raison,
+Monsieur._ I compliment you on your penetration. You were not so
 simple-minded as to believe that it was love—love for yourself alone,
-<i>cher</i> Oscar—that induced me to cross that horrible ocean?’</p>
+_cher_ Oscar—that induced me to cross that horrible ocean?’
 
-<p>‘No; I was not so simple-minded as to believe that.’</p>
+‘No; I was not so simple-minded as to believe that.’
 
-<p>‘But what a disappointment for poor me to find you changed from a rich
+‘But what a disappointment for poor me to find you changed from a rich
 man into a poor one! And yet, hard-hearted one that you are, I don’t
 believe you pity me a bit. Still, life may be endurable without pity;
 and when you grow to be a rich man again, which you will do in a few
 years, you will not forget that you have a wife who will want to share
-your good fortune.’</p>
+your good fortune.’
 
-<p>As before, his only answer was to look at his watch.</p>
+As before, his only answer was to look at his watch.
 
-<p>‘Oh, pray be careful that we do not lose our train,’ she said with a
+‘Oh, pray be careful that we do not lose our train,’ she said with a
 contemptuous laugh. Then her mood changed. She got up and began to pace
 the room with her hands behind her back. ‘O yes, I love you, Oscar
 Boyd,’ she exclaimed with passionate vehemence; ‘just as dearly as you
 love me—no more, and no less! It was well that you did not attempt to
 kiss me when we met, or even to put your arm round my waist. Had you
-done so, I should have struck you. I hate you, <i>voyez vous</i>, as
+done so, I should have struck you. I hate you, _voyez vous_, as
 you hate me; but I have one consolation which will never leave me: I
 have separated you from the woman you love—from the woman who loves
 you! Oh, it is sweet, sweet!—Is there no champagne to be had in this
-house?’</p>
+house?’
 
-<p>It was an odd climax to her passionate outburst. But before another
+It was an odd climax to her passionate outburst. But before another
 word could be said, there came a tap at the door, and a servant entered
-with<span class="pagenum" id="Page_106">{106}</span> a note on a salver, which he presented to Mr Boyd.</p>
+with a note on a salver, which he presented to Mr Boyd.
 
-<p>‘Who is this from?’ asked the latter as he took the note.</p>
+‘Who is this from?’ asked the latter as he took the note.
 
-<p>‘Don’t know, sir. I was told to give it you at once;’ and with that,
-exit the servant.</p>
+‘Don’t know, sir. I was told to give it you at once;’ and with that,
+exit the servant.
 
-<p>Oscar tore open the note, and not knowing the writing, the first thing
+Oscar tore open the note, and not knowing the writing, the first thing
 he did was to look for the signature. But there was none. Then he took
-the note to the window to read.</p>
+the note to the window to read.
 
-<p>Estelle, who had not stirred since the servant came in, watched him
-with quick-glancing, suspicious eyes.</p>
+Estelle, who had not stirred since the servant came in, watched him
+with quick-glancing, suspicious eyes.
 
-<p>‘He is surprised,’ she muttered to herself. ‘He cannot believe what he
+‘He is surprised,’ she muttered to herself. ‘He cannot believe what he
 reads. He reads it for the second time—for the third! What can it be
-about? Who can it be from?’</p>
+about? Who can it be from?’
 
-<p>For full five minutes Oscar Boyd stood facing the window without
+For full five minutes Oscar Boyd stood facing the window without
 stirring or speaking; then he crushed the note between his fingers,
 put it into his pocket, and turned and confronted his wife. She was
 standing with one hand resting on the table, as she had been standing
 since the servant came in. His eyes traversed her face with a cold,
 critical, scrutinising glance that made her tremble in spite of
 herself. There was a strange mysterious change in his expression. What
-could it portend? He came a few steps nearer to her.</p>
+could it portend? He came a few steps nearer to her.
 
-<p>‘You tell me that you were saved from the wreck of the <i>Ocean
-Bride</i>. Why have you allowed all these years to elapse before making
-me aware of that fact?’</p>
+‘You tell me that you were saved from the wreck of the _Ocean
+Bride_. Why have you allowed all these years to elapse before making
+me aware of that fact?’
 
-<p>‘Because I knew that you no longer cared for me. Because I knew that
+‘Because I knew that you no longer cared for me. Because I knew that
 the news of my death would be good news to you. Because I found friends
-who would not let me want.’</p>
+who would not let me want.’
 
-<p>‘You used not to study my happiness so much.’</p>
+‘You used not to study my happiness so much.’
 
-<p>She gave a little shrug. ‘You never understood me—you never read me
-aright from the first.’</p>
+She gave a little shrug. ‘You never understood me—you never read me
+aright from the first.’
 
-<p>‘It seemed to me that there was little left to understand after that
-night in the garden.’</p>
+‘It seemed to me that there was little left to understand after that
+night in the garden.’
 
-<p>‘That night in the garden!’</p>
+‘That night in the garden!’
 
-<p>‘When’——</p>
+‘When’——
 
-<p>‘Yes—when’——</p>
+‘Yes—when’——
 
-<p>‘I overheard’——</p>
+‘I overheard’——
 
-<p>‘Overheard what?’</p>
+‘Overheard what?’
 
-<p>‘Is it possible that you can have forgotten?’</p>
+‘Is it possible that you can have forgotten?’
 
-<p>She was gazing at him with bewildered eyes. She evidently knew nothing
-of what her questioner referred to.</p>
+She was gazing at him with bewildered eyes. She evidently knew nothing
+of what her questioner referred to.
 
-<p>‘The letter <i>must</i> be true!’ he said to himself, with his eyes
-still fixed searchingly on her.</p>
+‘The letter _must_ be true!’ he said to himself, with his eyes
+still fixed searchingly on her.
 
-<p>She recovered herself with an effort. ‘Why recall these painful
-recollections?’ she asked.</p>
+She recovered herself with an effort. ‘Why recall these painful
+recollections?’ she asked.
 
-<p>‘Why, indeed? It is folly to do so.’ On the occasional table at her
+‘Why, indeed? It is folly to do so.’ On the occasional table at her
 elbow was a tiny gold-stoppered smelling-bottle, which she had placed
 there, together with her handkerchief, on entering the room. He went a
 step nearer and picked it up. ‘This is yours?’ he said interrogatively,
-as he opened the stopper and sniffed for a moment at the contents.</p>
+as he opened the stopper and sniffed for a moment at the contents.
 
-<p>‘Yes, mine. Did you think it was <i>milady’s</i>?’ she asked, with
+‘Yes, mine. Did you think it was _milady’s_?’ she asked, with
 a touch of her old bravado. She put out her hand, as if to take the
 bottle from Oscar; but next moment her hand itself was grasped by his
-sinewy fingers. She tried to draw it away, but could not.</p>
+sinewy fingers. She tried to draw it away, but could not.
 
-<p>‘And is this the hand, Estelle, that once on a time I used to vow was
-the prettiest hand in the world?’</p>
+‘And is this the hand, Estelle, that once on a time I used to vow was
+the prettiest hand in the world?’
 
-<p>A strangely frightened look had leapt all at once into her eyes. ‘And
-is it not a pretty hand still?’</p>
+A strangely frightened look had leapt all at once into her eyes. ‘And
+is it not a pretty hand still?’
 
-<p>‘It <i>is</i> a pretty hand. And is this the same ring that I slipped
-on your finger one sunny morning—ah! so many years ago?’</p>
+‘It _is_ a pretty hand. And is this the same ring that I slipped
+on your finger one sunny morning—ah! so many years ago?’
 
-<p>‘Of course it is the same ring, Oscar. As if I should ever wear
-another!’ It was all her trembling lips could do to syllable the words.</p>
+‘Of course it is the same ring, Oscar. As if I should ever wear
+another!’ It was all her trembling lips could do to syllable the words.
 
-<p>‘Ah, well, I suppose there is a great sameness about such articles.’</p>
+‘Ah, well, I suppose there is a great sameness about such articles.’
 
-<p>‘You hurt me, Oscar. You are cruel.’ She was trying her utmost, in a
-quiet way, to withdraw her hand; but she was like a child in his grasp.</p>
+‘You hurt me, Oscar. You are cruel.’ She was trying her utmost, in a
+quiet way, to withdraw her hand; but she was like a child in his grasp.
 
-<p>‘I have no wish to be cruel, Estelle; but why do you struggle to
+‘I have no wish to be cruel, Estelle; but why do you struggle to
 withdraw your hand? Why do you keep it so tightly shut? What have you
-hidden inside it?’</p>
+hidden inside it?’
 
-<p>‘Hidden! Nothing. What should I have to hide?’</p>
+‘Hidden! Nothing. What should I have to hide?’
 
-<p>‘That is precisely what I am desirous of ascertaining for myself,’ he
-said drily.</p>
+‘That is precisely what I am desirous of ascertaining for myself,’ he
+said drily.
 
-<p>With her right hand she was now trying with all her strength to loosen
+With her right hand she was now trying with all her strength to loosen
 his grasp on the one that he still held. ‘Wretch!’ she half screamed,
-with a stamp of her foot. ‘Don’t I tell you that you are hurting me!’</p>
+with a stamp of her foot. ‘Don’t I tell you that you are hurting me!’
 
-<p>There was a brief struggle, not lasting longer than a few moments.
+There was a brief struggle, not lasting longer than a few moments.
 Oscar’s second hand was now engaged as well as his first. Slowly but
 irresistibly the clenched fingers were forced open till the palm of
 the hand was fully exposed to view. One glance at it sufficed for his
-purpose. He relaxed his hold.</p>
+purpose. He relaxed his hold.
 
-<p>Estelle started back with a cry; then, with a quick instinctive
+Estelle started back with a cry; then, with a quick instinctive
 movement, she hid her hands behind her. ‘So!’ she said, drawing a
 long deep breath. ‘You know all.’ She was glaring at him like some
 wild creature brought to bay, her eyes flashing with mingled fury and
-defiance.</p>
+defiance.
 
-<p>‘Yes, all. Give me your hand.’</p>
+‘Yes, all. Give me your hand.’
 
-<p>‘Never!’</p>
+‘Never!’
 
-<p>‘Give me your hand, or I will ring this bell, and expose your infamy
+‘Give me your hand, or I will ring this bell, and expose your infamy
 before every soul in the house.’ Then, without giving her time for any
 further refusal, he strode forward, and grasping her by the left wrist,
 he drew forth her arm to its full length. ‘Here are the letters D.
 R. burnt indelibly into your palm,’ he said. ‘What is the meaning of
 them?—You do not answer. I will answer for you.’ He let her hand drop
-with a gesture of contempt.</p>
+with a gesture of contempt.
 
-<p>‘You are not Estelle Duplessis, the woman I made my wife at New
-Orleans. You are her <i>twin-sister</i>, of whom I remember having
+‘You are not Estelle Duplessis, the woman I made my wife at New
+Orleans. You are her _twin-sister_, of whom I remember having
 heard her speak, but whom I never saw till to-day. You are Catarina
 Riaz, the wife, or widow, of Don Diego Riaz, a gentleman who bred
 cattle in Mexico. When angered, Don Diego was not a courteous man to
@@ -1344,16 +1216,17 @@ which he treated his cattle. As an instance, when you ran away from
 home on a certain occasion, and were found and brought back by his
 servants, he caused you to be branded on the palm of your hand with the
 initials of his name, so that, should you ever run away again, all the
-world might know you were his property. Here the<span class="pagenum" id="Page_107">{107}</span> letters are to this
+world might know you were his property. Here the letters are to this
 day, never to be effaced. Catarina Riaz, you are a vile impostor!—I
-hear the noise of wheels. The carriage is at the door. Go!’</p>
+hear the noise of wheels. The carriage is at the door. Go!’
 
+       *       *       *       *       *
 
-<p class="p2">It was morning—the morning of the day following that on which the
+It was morning—the morning of the day following that on which the
 events related took place. The weather was hot and sunny, and on such
 a forenoon the lawn at Rosemount was a very pleasant place. In the
 veranda, in an ample easy-chair, sat Captain Bowood, spectacles on
-nose, deep in the <i>Times</i>. On the lawn itself, under the pleasant
+nose, deep in the _Times_. On the lawn itself, under the pleasant
 shade of an ancient elm, sat Mrs Bowood and Sir Frederick, the former
 busy with her crewels, the latter lazily cutting the pages of a review
 and skimming a paragraph here and there. To the extreme left, some
@@ -1364,100 +1237,100 @@ more occupied with her own thoughts than with the work she had in hand.
 Close to her, and seated on a swing, suspended from a stout limb of a
 tree, was Master Tommy, a bright boy of nine, profoundly immersed in a
 new book of fairy tales, which Lady Dimsdale had that morning made him
-a present of.</p>
+a present of.
 
-<p>‘Just listen to this, Aunty Laura,’ he said. She was always ‘Aunty
-Laura’ to the children.</p>
+‘Just listen to this, Aunty Laura,’ he said. She was always ‘Aunty
+Laura’ to the children.
 
-<p>‘“When the brave knight, Sir Tristram, entered the dungeon in which the
+‘“When the brave knight, Sir Tristram, entered the dungeon in which the
 unhappy Princess had been shut up for so long a time, he was about to
 spring forward and embrace her, when all at once the wicked magician
 stood before them, and with his wand drew a magic line across the
 floor. Then, although Sir Tristram and the Princess could see each
 other, neither of them could step over the magic line, which was like
 an invisible wall between them.”’ Here Tommy looked up from his book.
-‘Have you ever seen a wicked magician, Aunty Laura?’</p>
+‘Have you ever seen a wicked magician, Aunty Laura?’
 
-<p>‘One or two, dear,’ she replied with a faint smile. ‘Only, nowadays,
-one doesn’t always know them when one sees them.’</p>
+‘One or two, dear,’ she replied with a faint smile. ‘Only, nowadays,
+one doesn’t always know them when one sees them.’
 
-<p>‘Don’t you think, aunty’—this in a whisper full of mystery—‘that if
+‘Don’t you think, aunty’—this in a whisper full of mystery—‘that if
 Sir Frederick had a long robe and a wand, he would look something like
-a magician?’</p>
+a magician?’
 
-<p>Lady Dimsdale shook her head and held up a warning finger; and Tommy
-went on with his book.</p>
+Lady Dimsdale shook her head and held up a warning finger; and Tommy
+went on with his book.
 
-<p>‘It was really very kind of you, Sir Frederick, to agree to stay with
-us for the rest of the week,’ remarked Mrs Bowood.</p>
+‘It was really very kind of you, Sir Frederick, to agree to stay with
+us for the rest of the week,’ remarked Mrs Bowood.
 
-<p>‘Madam, the pleasure is all on my side,’ replied the Baronet with his
-most courtly air.</p>
+‘Madam, the pleasure is all on my side,’ replied the Baronet with his
+most courtly air.
 
-<p>It would appear that in the course of conversation the previous evening
+It would appear that in the course of conversation the previous evening
 the Baronet had let out the fact that his own house was in the hands
 of the painters and whitewashers, and that he was rendered miserable
 thereby. Accordingly, very little persuasion had been needed to induce
 him to take up his quarters at Rosemount for the next few days. There
 may possibly have been other reasons also which made him not displeased
-to be on the spot.</p>
+to be on the spot.
 
-<p>‘We have very few visitors just now, as you are aware,’ resumed Mrs
-Bowood, ‘so that you must not expect to find us very lively.’</p>
+‘We have very few visitors just now, as you are aware,’ resumed Mrs
+Bowood, ‘so that you must not expect to find us very lively.’
 
-<p>‘My dear madam, I abhor liveliness. Had your house been full of
+‘My dear madam, I abhor liveliness. Had your house been full of
 company, nothing would have induced me to stay. When in Arcady, I like
 to feel that I am an Arcadian. I like to feel that I am among cows, and
 buttercups, and spring chickens—and—and home-cured bacon, and not
-among a mob of fine people from town. Hum, hum.’</p>
+among a mob of fine people from town. Hum, hum.’
 
-<p>Mrs Bowood smiled down at her work. Never was there a greater piece of
-artificiality in human form than the Baronet.</p>
+Mrs Bowood smiled down at her work. Never was there a greater piece of
+artificiality in human form than the Baronet.
 
-<p>‘Confound the flies!’ exclaimed Captain Bowood irascibly to no one in
+‘Confound the flies!’ exclaimed Captain Bowood irascibly to no one in
 particular, as he gave his bald head a sounding smack. ‘Eh now?’ he
-quoth inquiringly as he looked at the palm of his hand. ‘No.’</p>
+quoth inquiringly as he looked at the palm of his hand. ‘No.’
 
-<p>‘I wonder what can have become of Mr Boyd?’ went on Mrs Bowood. ‘He
-left the house early this morning, and has not been seen since.’</p>
+‘I wonder what can have become of Mr Boyd?’ went on Mrs Bowood. ‘He
+left the house early this morning, and has not been seen since.’
 
-<p>The movements of Mr Boyd in nowise interested Sir Frederick, but
+The movements of Mr Boyd in nowise interested Sir Frederick, but
 politeness demanded that he should say something. ‘Gone for an early
-ramble, probably, before the day gets too warm.’</p>
+ramble, probably, before the day gets too warm.’
 
-<p>‘I am dying to find out the writer of that anonymous letter.’</p>
+‘I am dying to find out the writer of that anonymous letter.’
 
-<p>The Baronet coughed, and cut another page of his review.</p>
+The Baronet coughed, and cut another page of his review.
 
-<p>‘Aunty Laura, what is the matter with you?’</p>
+‘Aunty Laura, what is the matter with you?’
 
-<p>The question came so suddenly that Lady Dimsdale could not repress a
-slight start. ‘The matter, dear?’ she asked inconsequentially.</p>
+The question came so suddenly that Lady Dimsdale could not repress a
+slight start. ‘The matter, dear?’ she asked inconsequentially.
 
-<p>‘You stop in the middle of a stitch, and then you put a finger to your
+‘You stop in the middle of a stitch, and then you put a finger to your
 lips, and then for a minute you seem as if you saw nothing. And you
-look <i>so</i> sad. Have you got the toothache, aunty?’</p>
+look _so_ sad. Have you got the toothache, aunty?’
 
-<p>‘Yes, dear, as you say—the toothache.’</p>
+‘Yes, dear, as you say—the toothache.’
 
-<p>‘I am so sorry!’</p>
+‘I am so sorry!’
 
-<p>‘Or the heartache,’ said Lady Dimsdale under her breath. ‘Does it
-matter which?’</p>
+‘Or the heartache,’ said Lady Dimsdale under her breath. ‘Does it
+matter which?’
 
-<p>The Baronet deliberately shut up his review, and looking steadily at
+The Baronet deliberately shut up his review, and looking steadily at
 his hostess, said in a low voice: ‘It was I who wrote the anonymous
-letter, Mrs Bowood.’</p>
+letter, Mrs Bowood.’
 
-<p>For once in a way, Mrs Bowood nearly pricked her finger. ‘You, Sir
-Frederick!’</p>
+For once in a way, Mrs Bowood nearly pricked her finger. ‘You, Sir
+Frederick!’
 
-<p>The Baronet inclined his head gravely. ‘Only, I don’t want the
-circumstance to be generally known.’</p>
+The Baronet inclined his head gravely. ‘Only, I don’t want the
+circumstance to be generally known.’
 
-<p>‘I won’t mention it for the world. But you do surprise me.’</p>
+‘I won’t mention it for the world. But you do surprise me.’
 
-<p>‘The facts are very simple. I met the real Mrs Boyd in New Orleans
+‘The facts are very simple. I met the real Mrs Boyd in New Orleans
 soon after her marriage. Later on, I found myself in Mexico. At a ball
 one evening, I saw among the crowd a lady whom I should certainly
 have addressed as Mrs Boyd, had not the friend with whom I was told
@@ -1468,20 +1341,20 @@ miles away. The matter probably would have escaped my memory, but for
 a letter received by me a few months later, in which my friend made
 mention of a recent scandal in the household of Don Riaz. It seems that
 the señora suddenly disappeared. When found at the end of two days, and
-taken back home, her husband caused her to be branded on the<span class="pagenum" id="Page_108">{108}</span> palm of
-the left hand with the initials of his name.’</p>
+taken back home, her husband caused her to be branded on the palm of
+the left hand with the initials of his name.’
 
-<p>Mrs Bowood shuddered. ‘How thankful I am that I don’t live in Mexico!’</p>
+Mrs Bowood shuddered. ‘How thankful I am that I don’t live in Mexico!’
 
-<p>‘Horray!’ shouted Master Tommy. ‘Brave Sir Tristram has chopped off the
-wizard’s head.’</p>
+‘Horray!’ shouted Master Tommy. ‘Brave Sir Tristram has chopped off the
+wizard’s head.’
 
-<p>The flies were still pestering Captain Bowood. ‘Another of ’em!’
+The flies were still pestering Captain Bowood. ‘Another of ’em!’
 he exclaimed as he slapped his forehead for the second time. Then
 he looked at his hand. ‘What—what? No,’ he said in a tone of
-disappointment.</p>
+disappointment.
 
-<p>Sir Frederick resumed the equable flow of his narrative. ‘A few
+Sir Frederick resumed the equable flow of his narrative. ‘A few
 months later, Don Diego was found dead under somewhat mysterious
 circumstances. Such things do happen in Mexico now and then. There was
 a dim suspicion in my mind, I hardly know why, that one sister might
@@ -1495,165 +1368,163 @@ how—although she had her gloves on at the time I spoke to her—she had
 got into the way of keeping her left hand tightly shut, as though she
 held something inside it which she was unwilling that any one should
 see. It was the certainty thus arrived at which induced me to write as
-I did to Mr Boyd.’</p>
+I did to Mr Boyd.’
 
-<p>‘A romance in real life! I presume that Mr Boyd had never seen the
-twin-sister before?’</p>
+‘A romance in real life! I presume that Mr Boyd had never seen the
+twin-sister before?’
 
-<p>‘Never, so far as I am aware.’</p>
+‘Never, so far as I am aware.’
 
-<p>‘She was certainly a very strange person, Sir Frederick, and I am not
+‘She was certainly a very strange person, Sir Frederick, and I am not
 sorry that she is gone. I trust there is no likelihood of her coming
-back?’</p>
+back?’
 
-<p>‘I don’t think you have much to fear on that score,’ responded the
-Baronet drily.</p>
+‘I don’t think you have much to fear on that score,’ responded the
+Baronet drily.
 
-<p>Master Tommy shut up his book with a bang. ‘And now Sir Tristram and
+Master Tommy shut up his book with a bang. ‘And now Sir Tristram and
 the Princess are married, and are going to live happy ever after. The
 brave knight and the forlorn Princess always do get married; don’t
-they, aunty?’</p>
+they, aunty?’
 
-<p>‘Not always, dear. Sometimes the spells of the wicked wizard are too
-strong for them.’</p>
+‘Not always, dear. Sometimes the spells of the wicked wizard are too
+strong for them.’
 
-<p>‘Oh, I say! that is a shame.—What a pretty butterfly!’ His perch on
+‘Oh, I say! that is a shame.—What a pretty butterfly!’ His perch on
 the swing was vacated next moment, and, cap in hand, he was off in
-pursuit.</p>
+pursuit.
 
-<p>‘A boy all over,’ murmured Lady Dimsdale. ‘Something to chase,
-something to crush!’</p>
+‘A boy all over,’ murmured Lady Dimsdale. ‘Something to chase,
+something to crush!’
 
-<p>‘Laura, whatever are you about?’ said Mrs Bowood with a little
+‘Laura, whatever are you about?’ said Mrs Bowood with a little
 elevation of her ordinary tones. ‘You might favour us with your company
-during the short time longer you have to stay.’</p>
+during the short time longer you have to stay.’
 
-<p>‘I’ve got the shadiest seat in the garden,’ was the answer that came
+‘I’ve got the shadiest seat in the garden,’ was the answer that came
 back from behind the evergreens; ‘and just now I’m engaged on an
-intricate detail of millinery, and must on no account be disturbed.’</p>
+intricate detail of millinery, and must on no account be disturbed.’
 
-<p>Sir Frederick had pricked up his ears. ‘Is Lady Dimsdale going away?’
-he asked.</p>
+Sir Frederick had pricked up his ears. ‘Is Lady Dimsdale going away?’
+he asked.
 
-<p>‘Did you not know? She had letters this morning—so she says—which
-necessitate her immediate return home. I am quite angry with her.’</p>
+‘Did you not know? She had letters this morning—so she says—which
+necessitate her immediate return home. I am quite angry with her.’
 
-<p>‘Ah, ah! nearly had you that time,’ exclaimed the Captain, after
-another abortive attempt to slaughter one of his tormentors.</p>
+‘Ah, ah! nearly had you that time,’ exclaimed the Captain, after
+another abortive attempt to slaughter one of his tormentors.
 
-<p>Sir Frederick rose and crossed to where Lady Dimsdale was sitting. ‘You
-are busy this morning, Lady Dimsdale,’ he said.</p>
+Sir Frederick rose and crossed to where Lady Dimsdale was sitting. ‘You
+are busy this morning, Lady Dimsdale,’ he said.
 
-<p>‘Extremely so. This young person was no longer fit for decent society,
+‘Extremely so. This young person was no longer fit for decent society,
 so I have taken her in hand, and am trying to make her presentable. But
-you don’t understand millinery, Sir Frederick.’</p>
+you don’t understand millinery, Sir Frederick.’
 
-<p>‘My misfortune.’</p>
+‘My misfortune.’
 
-<p>‘It is a pity. But, as a rule, your sex are very ignorant.’</p>
+‘It is a pity. But, as a rule, your sex are very ignorant.’
 
-<p>‘You are about to leave us, Mrs Bowood tells me.’</p>
+‘You are about to leave us, Mrs Bowood tells me.’
 
-<p>‘Yes; the three o’clock express will carry me away to “fresh woods and
-pastures new.”’</p>
+‘Yes; the three o’clock express will carry me away to “fresh woods and
+pastures new.”’
 
-<p>‘I am grieved to hear that.’</p>
+‘I am grieved to hear that.’
 
-<p>‘Is Sir Frederick Pinkerton ever really grieved about anything?’ There
-was a certain scornful ring in her voice as she asked this question.</p>
+‘Is Sir Frederick Pinkerton ever really grieved about anything?’ There
+was a certain scornful ring in her voice as she asked this question.
 
-<p>Sir Frederick bit his lip. His sallow cheeks flushed a little.</p>
+Sir Frederick bit his lip. His sallow cheeks flushed a little.
 
-<p>At this moment, there came an interruption. Miss Lucy ran up with red
+At this moment, there came an interruption. Miss Lucy ran up with red
 face and dishevelled hair, swinging her straw hat by its ribbons. ‘I’ve
-been such a long way, aunty, and I’m so tired!’</p>
+been such a long way, aunty, and I’m so tired!’
 
-<p>Lady Dimsdale was examining her fingers and pinafore with serious face.
-‘O Lucy!’ was all she said.</p>
+Lady Dimsdale was examining her fingers and pinafore with serious face.
+‘O Lucy!’ was all she said.
 
-<p>‘I couldn’t help it—really, I couldn’t. Strawberries and cream—such a
-lot!—with Mr Boyd at the Meadow Farm.’</p>
+‘I couldn’t help it—really, I couldn’t. Strawberries and cream—such a
+lot!—with Mr Boyd at the Meadow Farm.’
 
-<p>‘With Mr Boyd!’ said Lady Dimsdale in a low voice.</p>
+‘With Mr Boyd!’ said Lady Dimsdale in a low voice.
 
-<p>‘Yes. I met him in the garden ever so early, and he said he was going
+‘Yes. I met him in the garden ever so early, and he said he was going
 for a walk, and would I go with him. So I went, and it was ever so
-jolly. But’—with a yawn—‘I’m so hot and tired!’</p>
+jolly. But’—with a yawn—‘I’m so hot and tired!’
 
-<p>Lady Dimsdale gave her the doll.</p>
+Lady Dimsdale gave her the doll.
 
-<p>‘O you beauty! How smart Aunt Laura has made you!’ she cried in an
+‘O you beauty! How smart Aunt Laura has made you!’ she cried in an
 ecstasy of admiration. Then she sat down on a low stool close to Lady
 Dimsdale, and forgot for a little while that she was either hot or
-tired.</p>
+tired.
 
-<p>‘I have fulfilled my promise, Lady Dimsdale,’ said the Baronet in a
+‘I have fulfilled my promise, Lady Dimsdale,’ said the Baronet in a
 low voice. ‘That woman will never trouble Mr Boyd again.’ He looked
-meaningly at her as he spoke.</p>
+meaningly at her as he spoke.
 
-<p>It was a look which she understood. ‘Sir Frederick Pinkerton need be
+It was a look which she understood. ‘Sir Frederick Pinkerton need be
 under no apprehension,’ she replied, gazing steadily into his eyes. ‘I
 have not forgotten my part of the bargain. That which I have promised I
-will perform.’</p>
+will perform.’
 
-<p>The Baronet bowed a little stiffly, and strolled slowly back towards
-Mrs Bowood.</p>
+The Baronet bowed a little stiffly, and strolled slowly back towards
+Mrs Bowood.
 
-<p>‘Don’t you think, Aunt Laura,’ said Lucy, ‘now that Dolly is so smart,
+‘Don’t you think, Aunt Laura,’ said Lucy, ‘now that Dolly is so smart,
 I might take her to church with me? If it’s good for me to go to
-church, it must be good for Dolly.’</p>
+church, it must be good for Dolly.’
 
-<p>But Lady Dimsdale heard her not. ‘My promise! Yes, whatever it may cost
+But Lady Dimsdale heard her not. ‘My promise! Yes, whatever it may cost
 me, I must not forget that.’ She kept repeating the words to herself
-again and again.</p>
+again and again.
 
-<p>Lucy, for once, finding her chatter unheeded, made a pillow of one
+Lucy, for once, finding her chatter unheeded, made a pillow of one
 arm for her doll, laid her head against Lady Dimsdale’s knee, and two
-minutes later was fast asleep.</p>
+minutes later was fast asleep.
 
-<p><span class="pagenum" id="Page_109">{109}</span></p>
-
-<p>Along one of the winding pathways came Oscar Boyd, dusty with the
+Along one of the winding pathways came Oscar Boyd, dusty with the
 dust of country roads, but bright and happy-looking as the day.
 ‘Good-morning, Mrs Bowood.—Good-morning, Sir Frederick.—Any news,
-Captain?’</p>
+Captain?’
 
-<p>‘We thought that some one had run away with you,’ said his hostess, as
+‘We thought that some one had run away with you,’ said his hostess, as
 she extended her hand. ‘What have you been doing with yourself all this
-time?’</p>
+time?’
 
-<p>‘We have been over the hills and far away, Miss Lucy and I. Our object
+‘We have been over the hills and far away, Miss Lucy and I. Our object
 was strawberries and cream at the Meadow Farm.’ He gave a quiet glance
-round. ‘Laura not here?’ he said to himself.</p>
+round. ‘Laura not here?’ he said to himself.
 
-<p>‘Strawberries and cream. Humph!’ remarked the Captain. ‘S. and B. far
-better on a morning like this. Come now.’</p>
+‘Strawberries and cream. Humph!’ remarked the Captain. ‘S. and B. far
+better on a morning like this. Come now.’
 
-<p>Oscar had discovered Lady Dimsdale’s whereabouts by this time, and
-crossed towards her.</p>
+Oscar had discovered Lady Dimsdale’s whereabouts by this time, and
+crossed towards her.
 
-<p>‘Now for the scene!’ said Sir Frederick to himself as he watched him
+‘Now for the scene!’ said Sir Frederick to himself as he watched him
 go. Then turning to Mrs Bowood, he said: ‘With your permission, I will
-go and smoke a cigarette on the terrace.’</p>
+go and smoke a cigarette on the terrace.’
 
-<p>‘You will find it very hot on that side of the house.’</p>
+‘You will find it very hot on that side of the house.’
 
-<p>‘The heat suits me, madam. If I may be allowed such an expression—I
+‘The heat suits me, madam. If I may be allowed such an expression—I
 revel in it.’ Then as he walked away, he said to himself: ‘How will she
-break the news?’</p>
+break the news?’
 
-<p>Mrs Bowood had not failed to note in what direction Mr Boyd had
+Mrs Bowood had not failed to note in what direction Mr Boyd had
 vanished. ‘After all, they may perhaps make a match of it,’ was the
-thought in her mind. ‘I do hope he will propose before Laura goes.’</p>
+thought in her mind. ‘I do hope he will propose before Laura goes.’
 
-<p>‘Here you are! I was just wondering what had become of you,’
+‘Here you are! I was just wondering what had become of you,’
 said Oscar, as he drew up a garden-chair and sat down near Lady
 Dimsdale.—‘My little sweetheart and asleep?’ he added with a smiling
-glance at the unconscious Lucy.</p>
+glance at the unconscious Lucy.
 
-<p>‘She was tired with the long walk.’</p>
+‘She was tired with the long walk.’
 
-<p>Something in Lady Dimsdale’s voice struck him. He looked fixedly at
+Something in Lady Dimsdale’s voice struck him. He looked fixedly at
 her. Probably he expected to see in her some traces of the same change
 that he felt in himself—the change from despair to gladness, from a
 midnight of blackest gloom to a dawn of radiant hopes, rich with the
@@ -1662,114 +1533,110 @@ in the woman who sat before him with pallid, long-drawn face, with
 downcast eyes, round which the dark circles left by sleeplessness or
 tears—perhaps by both—were plainly to be seen, and with thin white
 hands that visibly trembled as, clasped in each other, they lay idly on
-her lap. It was unaccountable.</p>
+her lap. It was unaccountable.
 
-<p>‘You have heard of all that happened yesterday?’ he presently remarked.
-‘You know that that woman was an impostor?’</p>
+‘You have heard of all that happened yesterday?’ he presently remarked.
+‘You know that that woman was an impostor?’
 
-<p>‘Yes; I have heard.’</p>
+‘Yes; I have heard.’
 
-<p>‘Her likeness to her sister was extraordinary. I was completely
-deceived.’</p>
+‘Her likeness to her sister was extraordinary. I was completely
+deceived.’
 
-<p>‘She will not trouble you again?’</p>
+‘She will not trouble you again?’
 
-<p>‘Hardly so, I think. I have arranged for a friend of mine to see her
+‘Hardly so, I think. I have arranged for a friend of mine to see her
 on board ship to-morrow, and to pay her passage back to the port from
 which she sailed. I have an idea that I ought to thank Sir Frederick
 Pinkerton for the anonymous letter which served to unmask her.’ He drew
 his chair a little closer. ‘Laura! you have not forgotten yesterday
-morning?’ he said as he bent forward and tried to gaze into her eyes.</p>
+morning?’ he said as he bent forward and tried to gaze into her eyes.
 
-<p>‘No; I have not forgotten.’ The reply was so low that he could scarcely
-hear it, and the eyes were kept persistently cast down.</p>
+‘No; I have not forgotten.’ The reply was so low that he could scarcely
+hear it, and the eyes were kept persistently cast down.
 
-<p>‘You know how we were interrupted,’ went on Oscar. ‘A black cloud came
+‘You know how we were interrupted,’ went on Oscar. ‘A black cloud came
 between us, and we thought our happiness was wrecked for ever. But
 the cloud has vanished, and the sun shines out as brightly as before,
-and’——</p>
+and’——
 
-<p>‘Oscar, we must—both of us—try to think of yesterday morning as if it
-had never been.’</p>
+‘Oscar, we must—both of us—try to think of yesterday morning as if it
+had never been.’
 
-<p>He drew himself upright in his chair with a great gasp; for a moment or
+He drew himself upright in his chair with a great gasp; for a moment or
 two he was too stupefied to speak. ‘Try to think of yesterday morning
-as if it had never been! Impossible! But why try to do so?’</p>
+as if it had never been! Impossible! But why try to do so?’
 
-<p>‘Because something has happened since then which makes it imperative
-that we should do so.’</p>
+‘Because something has happened since then which makes it imperative
+that we should do so.’
 
-<p>‘Something happened! I don’t understand. I only know that you agreed to
-become my wife. What can have happened to alter that?’</p>
+‘Something happened! I don’t understand. I only know that you agreed to
+become my wife. What can have happened to alter that?’
 
-<p>‘You must not ask me, and I cannot tell you.’</p>
+‘You must not ask me, and I cannot tell you.’
 
-<p>‘And you ask me to agree to this without a word of explanation?’</p>
+‘And you ask me to agree to this without a word of explanation?’
 
-<p>‘Yes, without a word of explanation.’ There was a quaver in her voice
-as she said these words which he did not fail to detect.</p>
+‘Yes, without a word of explanation.’ There was a quaver in her voice
+as she said these words which he did not fail to detect.
 
-<p>He sat like a man stunned—like one who has heard some tidings of
+He sat like a man stunned—like one who has heard some tidings of
 import greater than his mind is able to grasp. ‘Laura! you torture me,’
-he said at length.</p>
+he said at length.
 
-<p>At this she raised her dark, grief-laden eyes, and gazed at him for a
+At this she raised her dark, grief-laden eyes, and gazed at him for a
 moment or two with a sort of dumb, pathetic tenderness, while at the
-same time the fingers of one hand wandered caressingly over his sleeve.</p>
+same time the fingers of one hand wandered caressingly over his sleeve.
 
-<p>He was profoundly moved. He rose from his chair, and took a turn or
+He was profoundly moved. He rose from his chair, and took a turn or
 two in silence, and then resumed his seat. ‘Send for the nurse to take
 away that child,’ he said, ‘and then come with me for a walk in the
-shrubbery.’</p>
+shrubbery.’
 
-<p>‘Oscar, I dare not.’</p>
+‘Oscar, I dare not.’
 
-<p>‘You dare not! Why?’</p>
+‘You dare not! Why?’
 
-<p>‘I dare not. We had better say farewell here and now, than later on and
-before others.’</p>
+‘I dare not. We had better say farewell here and now, than later on and
+before others.’
 
-<p>‘Farewell!’</p>
+‘Farewell!’
 
-<p>‘I leave here by the afternoon express. Oscar, after to-day, you and I
-must never meet again.’</p>
+‘I leave here by the afternoon express. Oscar, after to-day, you and I
+must never meet again.’
 
-<p>He started to his feet. ‘Never meet again! But—— Why—— Can you who
-say this to me be the same woman whom I kissed but yesterday?’</p>
+He started to his feet. ‘Never meet again! But—— Why—— Can you who
+say this to me be the same woman whom I kissed but yesterday?’
 
-<p>‘I am that woman; how happy then, how unhappy now, no one but myself
-can ever know!’</p>
+‘I am that woman; how happy then, how unhappy now, no one but myself
+can ever know!’
 
-<p>‘Then why this change? What strange mystery is here?’</p>
+‘Then why this change? What strange mystery is here?’
 
-<p>‘I cannot tell you. My lips are sealed. Believe me, Oscar, we had
-better say farewell here and now.’</p>
+‘I cannot tell you. My lips are sealed. Believe me, Oscar, we had
+better say farewell here and now.’
 
-<p>‘I cannot and I will not say farewell!’ he passionately exclaimed.
+‘I cannot and I will not say farewell!’ he passionately exclaimed.
 ‘You belong to me, and I belong to you; that kiss was the seal and
 consecration of our union. No earthly power shall keep us asunder.
 There is some strange mystery at work here. If you will not give me
 the key to it, I must try to find it for myself.’ He lifted his hat,
 stooped and pressed his lips to her hair, and then, without another
-word, he plunged into the shrubbery.</p>
+word, he plunged into the shrubbery.
 
-<p><span class="pagenum" id="Page_110">{110}</span></p>
-
-<p>Laura gazed after his retreating figure through a mist of tears. ‘The
+Laura gazed after his retreating figure through a mist of tears. ‘The
 key to the mystery!’ she murmured. ‘You may try your best to find it,
 my poor Oscar, but Merlin’s enchantments will prove too strong for you
-to overcome.’</p>
+to overcome.’
 
 
-<hr class="chap x-ebookmaker-drop" />
-
-<div class="chapter">
-<h2 class="nobreak" id="A_PEEP_AT_THE_FALKLAND_ISLANDS">A PEEP AT THE FALKLAND ISLANDS.</h2>
-</div>
 
 
-<p><span class="smcap">Except</span> to mariners who have rounded Cape Horn, this solitary
-group of islands is a veritable <i>terra incognita</i>. Seldom
+A PEEP AT THE FALKLAND ISLANDS.
+
+
+Except to mariners who have rounded Cape Horn, this solitary
+group of islands is a veritable _terra incognita_. Seldom
 visited, however, as the Falkland Islands have been in the past,
 their isolation promises to be yet more complete in the future, as
 soon as an inter-oceanic canal diverts commerce from the old to a
@@ -1781,9 +1648,9 @@ those latitudes. It appears probable, however, that their usefulness
 for even these purposes is nearly at an end, and that their lonely
 inhabitants are doomed, like the surviving innkeepers of coaching-days,
 to pass the remainder of their lives in mourning over the memories of
-the past.</p>
+the past.
 
-<p>These islands have at various times belonged to France and to Spain;
+These islands have at various times belonged to France and to Spain;
 but since 1833, when they were annexed by the English government for
 the protection of the whale-fishery, they have formed part of the
 British possessions. The group consists of the islands of East and
@@ -1817,22 +1684,22 @@ hundred pounds capital, having within the last few years settled on
 the islands for this purpose, their ‘stations’ ranging from twenty to
 one hundred and fifty thousand acres, the aggregate value of the wool
 annually exported to England amounting to nearly fifty thousand pounds
-sterling.</p>
+sterling.
 
-<p>There being no roads or vehicles for internal traffic, as most of
+There being no roads or vehicles for internal traffic, as most of
 the country round Stanley is a huge morass, the owners of these
 sheep-stations are obliged to keep small sailing-vessels in which to
 visit Stanley for provisions, or send their wool there for shipment to
-England.</p>
+England.
 
-<p>In respect of scenery, it cannot be said that nature has bestowed gifts
+In respect of scenery, it cannot be said that nature has bestowed gifts
 on the Falklands with a too lavish hand. There is but one tree in the
 entire islands, and that solitary exception attempts to grow in the
 governor’s garden at Stanley, where it is protected by a wall from the
 cutting south wind, which ruthlessly nips off any ambitious shoot which
-presumes to peep over its restricted limits.</p>
+presumes to peep over its restricted limits.
 
-<p>The population of the Falklands in 1877 was a little over thirteen
+The population of the Falklands in 1877 was a little over thirteen
 hundred, nearly three-fourths of that number being males. Most of
 the inhabitants are English; but there are also a few Americans and
 Spaniards, the latter being the surviving descendants of the former
@@ -1843,9 +1710,9 @@ chief sources of profit are derived from annual visits to the New
 Shetland Islands, about six hundred miles south from Cape Horn, and to
 other breeding-grounds in the Falkland Islands, to hunt for seals and
 penguins, which are slaughtered in large numbers for their skins and
-oil.</p>
+oil.
 
-<p>The breeding-grounds or ‘rookeries’ of the penguins are generally
+The breeding-grounds or ‘rookeries’ of the penguins are generally
 situated in the shelter of some land-locked bay or break in the line
 of steep and rugged cliffs; and often occupy several acres, which
 are laid out, levelled, and divided into squares, with intervening
@@ -1867,7 +1734,7 @@ oil extracted by the fishermen. In landing to attack and slaughter
 them in their rookeries with clubs and boat-stretchers, stealthy
 precautions are quite unnecessary, the poor dumb creatures looking on
 in a state of indifferent stupidity, without making any attempt to
-escape, whilst their companions are<span class="pagenum" id="Page_111">{111}</span> being knocked on the head all
+escape, whilst their companions are being knocked on the head all
 around them. Seal-hunting, or ‘fishing’ as it is usually termed, on
 the contrary, requires great skill and patience. Seals are gregarious
 as well as polygamous, and when they forsake the open seas for their
@@ -1876,9 +1743,9 @@ care to insure the safety of their retirement, particularly in
 localities which have been previously visited by human beings. They
 invariably post sentinels on every commanding point, so that it is only
 by patient waiting and under cover of night the hunters are enabled to
-elude their vigilance and surprise them.</p>
+elude their vigilance and surprise them.
 
-<p>The hunting or fishing season being over, the fishermen return to
+The hunting or fishing season being over, the fishermen return to
 Stanley with their harvest of skins and oil, which they sell to
 the traders, who, as may be imagined, buy at their own price, and
 eventually get the lion’s share of the profits. Not that this appears
@@ -1893,9 +1760,9 @@ elbow-deep in pie-crust and confectionery; while the only single lady
 in the colony commenced practising her most sentimental songs, and
 hunting up old bits of finery to set off her mature charms, with a grim
 determination to capture the maiden affections of some susceptible
-young naval officer.</p>
+young naval officer.
 
-<p>For those of our number to whom shooting and fishing offered more
+For those of our number to whom shooting and fishing offered more
 attractions than did the allurements of female society, the Falkland
 Islands afforded a fine field. The tyro whose sole ambition is
 a pot-shot at a standing object, may revel there in unequalled
@@ -1929,53 +1796,51 @@ in favour of an ignominious flight, had not my enemy anticipated me
 by turning tail himself. Gnashing his teeth with a parting roar, he
 half-waddled and half-rolled down the bank and into the water, while
 I was desperately pulling at the trigger of my gun, forgetting in my
-agitation that it was only at half-cock.</p>
+agitation that it was only at half-cock.
 
-<p>Having nearly exhausted all that the Falklands present in the way of
+Having nearly exhausted all that the Falklands present in the way of
 interest or pleasure, we now say our adieus, weigh anchor and put to
-sea.</p>
+sea.
 
 
-<hr class="chap x-ebookmaker-drop" />
-
-<div class="chapter">
-<h2 class="nobreak" id="MISCHIEF_DONE_BY_GOOD-NATURED_PEOPLE">MISCHIEF DONE BY GOOD-NATURED PEOPLE.</h2>
-</div>
 
 
-<p><span class="smcap">No</span> doubt there is a vast amount of misery in the world
-occasioned by deliberate unkindness; revenge for real or fancied
-injuries, or the terrible pleasure some evil natures feel in the
-exercise of arbitrary power. Still more suffering is probably
-occasioned by that callous indifferentism to the feelings of others
-which we call thoughtlessness, but which is really very nearly allied
-to selfishness. Yet possibly we should find, were we able to make the
-reckoning, that as much harm is done by the unwise concessions of what
-are called ‘good-natured people,’ as by either of the other classes.</p>
+MISCHIEF DONE BY GOOD-NATURED PEOPLE.
 
-<p>It is often said of a good-natured man that he is no one’s enemy but
+
+No doubt there is a vast amount of misery in the world occasioned by
+deliberate unkindness; revenge for real or fancied injuries, or the
+terrible pleasure some evil natures feel in the exercise of arbitrary
+power. Still more suffering is probably occasioned by that callous
+indifferentism to the feelings of others which we call thoughtlessness,
+but which is really very nearly allied to selfishness. Yet possibly
+we should find, were we able to make the reckoning, that as much harm
+is done by the unwise concessions of what are called ‘good-natured
+people,’ as by either of the other classes.
+
+It is often said of a good-natured man that he is no one’s enemy but
 his own; but families and friends are so linked together in this world,
 that it is exceedingly difficult for any one to injure himself without
 hurt to another. Far be it from us to limit philanthropy or any sort of
 generosity. He who goes through life conferring benefits is the noblest
 of mortals; but unless on occasion he is able to say ‘No’ to eager
-entreaties, he will never be able to carry out his best intentions.</p>
+entreaties, he will never be able to carry out his best intentions.
 
-<p>One of the most mischievous forms of what is called good-nature is
+One of the most mischievous forms of what is called good-nature is
 recommending an incompetent person to some responsible situation. Not
 that patronage, properly considered, is anything but a good and lawful
 thing; only we may be very sure that the just, enlightened, and really
 powerful patron is by no means what is understood by ‘a good-natured
 man.’ We imagine him to have legitimate influence, which he would very
-soon lose were he to abuse it.</p>
+soon lose were he to abuse it.
 
-<p>We once knew an authoress, now no more, who, besides having a great
+We once knew an authoress, now no more, who, besides having a great
 deal of talent as well as good-nature, had one of the kindest hearts
 in the world. Her successful books had secured her a certain literary
 position; and had she used sparingly and discreetly the influence
 which naturally resulted from it, she might have been of immense use
 to young aspirants of genius. Perhaps her own vivid imagination lent a
-charm to the manuscripts she was asked to forward for<span class="pagenum" id="Page_112">{112}</span> unknown authors
+charm to the manuscripts she was asked to forward for unknown authors
 to eminent publishers, for it is a fact that men and women of real
 genius are often the most lenient of critics to inferior writers. But
 however this may have been, her good-nature was so often imposed on,
@@ -1988,11 +1853,11 @@ was rather an injury than otherwise to be introduced by Mrs E——. She
 sacrificed what might have been a very useful and powerful influence to
 her good-nature. If Dr Johnson had thus sacrificed his great influence
 by offering poor novels to the booksellers, he would have been little
-likely to have been able to promptly dispose of the immortal <i>Vicar
-of Wakefield</i>, and so aid poor Oliver Goldsmith in the hour of his
-sorest need.</p>
+likely to have been able to promptly dispose of the immortal _Vicar
+of Wakefield_, and so aid poor Oliver Goldsmith in the hour of his
+sorest need.
 
-<p>Critics who, from a spurious good-nature, unduly praise a work of
+Critics who, from a spurious good-nature, unduly praise a work of
 art or literature, really do a cruel injury to deserving authors and
 artists, by bringing their merits into an unworthy comparison with
 inferior powers. Evil of this sort, however, is apt to bring about
@@ -2000,9 +1865,9 @@ its own penalty. Directly a professional writer is even suspected of
 unfairness, the spell of his influence is broken; and often enough,
 to be a warning to the ready writer, has it happened that one of the
 staff of a popular journal has lost his situation on account of his too
-‘good-natured’ reviews.</p>
+‘good-natured’ reviews.
 
-<p>It is rather remarkable that what are called good-natured people rarely
+It is rather remarkable that what are called good-natured people rarely
 undertake unpleasant duties, if they can possibly avoid them. They do
 not like telling disagreeable truths, however urgent the necessity for
 so doing, but transfer the mission to a sterner friend with some such
@@ -2013,9 +1878,9 @@ generous in a grand way; they are seldom capable of self-sacrifice. If
 they are rich, they give money rather than take trouble. If they are
 people of leisure, they probably give time, which perhaps is not very
 precious to them; but doing something they greatly dislike, in order to
-benefit another, is a virtue too rare to be found among them.</p>
+benefit another, is a virtue too rare to be found among them.
 
-<p>There is a form of deception, too often considered very venial, with
+There is a form of deception, too often considered very venial, with
 which so-called good-natured people, if they are good letter-writers,
 are not seldom associated. This is ‘drawing up’ letters for their less
 gifted acquaintances to copy and send out as their own. A really good
@@ -2037,17 +1902,17 @@ if not quite all of which were composed by a clever brilliant friend
 who had never even seen her. When the marriage proved very far from a
 happy one—and the real scribe had a wife and children of his own—we
 have reason to believe that he deeply regretted the part he had played
-in deluding a confiding girl.</p>
+in deluding a confiding girl.
 
-<p>Very much on a par with the laxity of principle which permits false
+Very much on a par with the laxity of principle which permits false
 letter-writing is the wearing of borrowed finery, especially jewellery,
 things which we have known good-natured women very willing to lend.
 Valuable jewellery is a sign of a certain amount of wealth, which is
 generally on fit occasions displayed; but to exhibit the sign where the
 reality does not exist is a mean sort of deception, which must often be
-followed by humiliation.</p>
+followed by humiliation.
 
-<p>A person out of what is called good-nature becoming security for
+A person out of what is called good-nature becoming security for
 another, and suffering, or causing others to suffer in consequence, is
 so sad and frequent an event in real life, that it has become quite a
 common incident in novels, and need not be treated of here. Kindness
@@ -2061,66 +1926,388 @@ mischievous, they proceed from one who probably neither feels deeply
 nor sees clearly the relations of cause and effect. That Justice—to a
 stranger no less than to our associates—is a rarer and more sublime
 virtue than generosity, is a truth that good-natured people are
-somewhat apt to forget.</p>
+somewhat apt to forget.
 
 
-<hr class="chap x-ebookmaker-drop" />
-
-<div class="chapter">
-<h2 class="nobreak" id="SIX_LITTLE_WORDS">SIX LITTLE WORDS.</h2>
-</div>
 
 
-<div class="poetry-container">
-<div class="poetry">
-  <div class="stanza">
-    <div class="verse indent0"><span class="smcap">Six</span> little words arrest me every day:</div>
-    <div class="verse indent0">I <i>ought</i>, <i>must</i>, <i>can</i>—I <i>will</i>, I <i>dare</i>, I <i>may</i>.</div>
-    <div class="verse indent0">I <span class="allsmcap">OUGHT</span>—’tis conscience’ law, divinely writ</div>
-    <div class="verse indent0">Within my heart—the goal I strive to hit.</div>
-    <div class="verse indent0">I <span class="allsmcap">MUST</span>—this warns me that my way is barred,</div>
-    <div class="verse indent0">Either by Nature’s law or custom hard.</div>
-    <div class="verse indent0">I <span class="allsmcap">CAN</span>—in this is summed up all my might,</div>
-    <div class="verse indent0">Whether to do, or know, or judge aright.</div>
-    <div class="verse indent0">I <span class="allsmcap">WILL</span>—my diadem, by the soul imprest</div>
-    <div class="verse indent0">With freedom’s seal—the ruler in my breast.</div>
-    <div class="verse indent0">I <span class="allsmcap">DARE</span>—at once a motto for the seal,</div>
-    <div class="verse indent0">And, dare I? barrier ’gainst unlicensed zeal.</div>
-    <div class="verse indent0">I <span class="allsmcap">MAY</span>—is final, and at once makes clear</div>
-    <div class="verse indent0">The way which else might vague and dim appear.</div>
-    <div class="verse indent0">I <i>ought</i>, <i>must</i>, <i>can</i>—I <i>will</i>, I <i>dare</i>, I <i>may</i>:</div>
-    <div class="verse indent0">These six words claim attention every day.</div>
-    <div class="verse indent0">Only, through Thee, know I what, every day,</div>
-    <div class="verse indent0">I ought, I must, I can, I will, I dare, I may.</div>
-  </div>
-</div>
-</div>
+SIX LITTLE WORDS.
 
-<hr class="full" />
 
-<p class="center">Printed and Published by <span class="smcap">W. &amp; R. Chambers</span>, 47 Paternoster Row,
-<span class="smcap">London</span>, and 339 High Street, <span class="smcap">Edinburgh</span>.</p>
+    Six little words arrest me every day:
+    I _ought_, _must_, _can_—I _will_, I _dare_, I _may_.
+    I OUGHT—’tis conscience’ law, divinely writ
+    Within my heart—the goal I strive to hit.
+    I MUST—this warns me that my way is barred,
+    Either by Nature’s law or custom hard.
+    I CAN—in this is summed up all my might,
+    Whether to do, or know, or judge aright.
+    I WILL—my diadem, by the soul imprest
+    With freedom’s seal—the ruler in my breast.
+    I DARE—at once a motto for the seal,
+    And, dare I? barrier ’gainst unlicensed zeal.
+    I MAY—is final, and at once makes clear
+    The way which else might vague and dim appear.
+    I _ought_, _must_, _can_—I _will_, I _dare_, I _may_:
+    These six words claim attention every day.
+    Only, through Thee, know I what, every day,
+    I ought, I must, I can, I will, I dare, I may.
 
-<hr class="full" />
+       *       *       *       *       *
 
-<p class="center"><i>All Rights Reserved.</i></p>
+Printed and Published by W. & R. CHAMBERS, 47 Paternoster Row,
+LONDON, and 339 High Street, EDINBURGH.
 
-<hr class="full" />
+       *       *       *       *       *
 
-<div class="footnotes">
+_All Rights Reserved._
 
-<p class="ph3">FOOTNOTES</p>
-<div class="footnote">
 
-<p><a id="Footnote_1" href="#FNanchor_1" class="label">[1]</a> We may here refer to the provision of the Acts passed to
-facilitate the administration of estates under three hundred pounds.
-Information as to the simple and inexpensive mode of procedure in such
-cases can be obtained by application to the sheriff-clerks in Scotland,
-or to the Inland Revenue authorities in England.</p>
+*** END OF THE PROJECT GUTENBERG EBOOK CHAMBERS'S JOURNAL OF POPULAR
+LITERATURE, SCIENCE, AND ART, FIFTH SERIES, NO. 7, VOL. I, FEBRUARY 16,
+1884 ***
 
-</div>
-</div>
+Updated editions will replace the previous one--the old editions will
+be renamed.
 
-<div>*** END OF THE PROJECT GUTENBERG EBOOK 64993 ***</div>
-</body>
-</html>
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
